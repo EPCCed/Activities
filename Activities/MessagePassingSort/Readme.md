@@ -68,3 +68,8 @@ sorted, the stopping condition is ???
 ![Final configuration](imgs/MessagePassing6.png)
 
 ## Scenarios
+
+## Acknowledgements
+
+* Male silouhette came from the [man shape](https://openclipart.org/detail/182185/man-shape) at openclipart.
+* Female silouhette came from the female from the [Man/woman shape Calr Sagan plate](https://openclipart.org/detail/269831/manwoman-shape-carl-sagan-plate) at openclipart.
