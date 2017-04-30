@@ -27,11 +27,19 @@ you can either print a label (good to use coloured lables so that green is in gr
 ink for those that are too young to read) for each box or you could get coloured 
 boxes/trugs that match the colour of the objects that you are trying to sort.
 
-You can be as sophistcated as you like. We started off with simple boxes and now
-use trugs placed on a flower stand and have changed the balls for small pyramid
-bean bags. The one thing that you do need to be careful with is that the action
-at the ball source container can get a little bit frenetic so make sure that there
-are no sharp edges or hard bits that could cause damage to young hands.
+You can be as sophistcated as you like. We started off with simple boxes:
+
+![Simple boxes](imgs/setup1.png)
+
+moved on to use trugs and a boxe
+
+![Box and trugs](imgs/setup2.png)
+
+and now use trugs placed on a flower stand and have changed the
+balls for small pyramid bean bags. The one thing that you do need
+to be careful with is that the action at the ball source container
+can get a little bit frenetic so make sure that there are no sharp
+edges or hard bits that could cause damage to young hands.
 
 ## Scenario
 
