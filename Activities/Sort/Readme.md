@@ -31,7 +31,7 @@ You can be as sophistcated as you like. We started off with simple boxes:
 
 ![Simple boxes](imgs/setup1.png)
 
-moved on to use trugs and a boxe
+moved on to use trugs and a boxes:
 
 ![Box and trugs](imgs/setup2.png)
 
