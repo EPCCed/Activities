@@ -43,7 +43,30 @@ edges or hard bits that could cause damage to young hands.
 
 ## Scenario
 
-To run this activity place the ball source and surround this by the ball sinks.
+To run this activity place the coloured object source and place the
+ball sinks nearby. You can optionally prepare an A3 sheet with the
+numbered of colour objects you have along the y-axis and the number
+of people involved in the activity on the x-axis (see the diagram
+below), you can then get your participants to register their scores
+as they complete the activity.
+
+Explain to your audience that you are going to demonstrate the
+benefits of parallelism. Tell them that they can only use one hand
+and only process one object at a time so if you are using coloured
+balls you are only supposed to use hand with one ball at a time - 
+this helps to control participation. You then:
+
+* Get one person to sort as many coloured objects as they can in 30s. 
+* Count the objects they have done. Note down the score and/or get the participant
+  to add a sticky dot to the chart as shown below.
+* Make sure the objects are well shuffled in the source container.
+* Now get more than one person to carry out the same task. You can repeat with as 
+  many people as you have in the group.
+
+![Keeping track of the coloured objects sorted in 30s.](imgs/scores.png)
+
+Try to get as many people involved in the process, so while one person is sorting
+another can be the time keeper.
 
 ## Overview
 
