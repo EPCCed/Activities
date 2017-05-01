@@ -74,6 +74,7 @@ sorted, the stopping condition is ???
 * Male silhouette came from the [man shape](https://openclipart.org/detail/182185/man-shape) at openclipart.
 * Female silhouette came from the female from the [Man/woman shape Carl Sagan plate](https://openclipart.org/detail/269831/manwoman-shape-carl-sagan-plate) at openclipart.
 
+<!-- Licensing and copyright stuff below -->
 <a href="http://www.epcc.ed.ac.uk">
 <img alt="EPCC logo" src="https://www.epcc.ed.ac.uk/sites/all/themes/epcc/images/epcc-logo.png" height="31"/>
 </a>

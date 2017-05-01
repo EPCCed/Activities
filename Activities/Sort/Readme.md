@@ -70,6 +70,7 @@ another can be the time keeper.
 
 ## Overview
 
+<!-- Licensing and copyright stuff below -->
 <a href="http://www.epcc.ed.ac.uk">
 <img alt="EPCC logo" src="https://www.epcc.ed.ac.uk/sites/all/themes/epcc/images/epcc-logo.png" height="31"/>
 </a>
