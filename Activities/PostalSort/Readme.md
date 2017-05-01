@@ -37,15 +37,15 @@ less space. This can help you fit more games on your phone!
 
 ## Parallel Sorting Algorithms
 
-Sorting data is also essential on supercomputers. On a supercomputer
+Sorting data is often used on supercomputers. On a supercomputer
 you need to carry out your sort on many cores. Hence you need a
 parallel sorting algorithm.
 
 Examples include:
 
-* Parallel Quicksort
-* Bubble sort 
-* Radix sort
+* [Quicksort](https://en.wikipedia.org/wiki/Quicksort)
+* [Bubble sort](https://en.wikipedia.org/wiki/Bubble_sort) 
+* [Radix sort](https://en.wikipedia.org/wiki/Radix_sort)
 
 An example: The parallel bucket sort
 
@@ -59,7 +59,7 @@ sorted in parallel. This is similar to how we sort on a supercomputer
 one core sorts a set of data at the same time that another core sorts
 a different set of data.
 
-The post sorting game
+# The post sorting game
 
 ## Setup your demo
 
