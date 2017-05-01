@@ -11,7 +11,7 @@ Demonstrate how a list of numbers can be sorted in parallel.
 ## Equipment
 
 The equipment required for this activity is relatively simple
-and can go as far as your budget will streach. The miniumum
+and can go as far as your budget will stretch. The minimum
 set-up would be:
 
 * A set of cards with integers clearly marked from 1 to N where N
@@ -40,10 +40,10 @@ Passing Interface (MPI) library that would generally be used to
 implement this type of algorithm starts counting from zero). You have
 to proceed with the algorithm in two phases:
 
-Get each even numbered partipant to compare the highest number they
+Get each even numbered participant to compare the highest number they
 with have lowest number the person on the right has which means odd
-numbered participants must turn to the pepole on their right and
-compare thir lowest number with the highest number the person on the
+numbered participants must turn to the people on their right and
+compare their lowest number with the highest number the person on the
 right has. If the lower number is higher than the high number then
 swap otherwise do nothing. If you are on of the participants standing
 at the ends and you have no participant on your left or your right do
@@ -71,8 +71,8 @@ sorted, the stopping condition is ???
 
 ## Acknowledgements
 
-* Male silouhette came from the [man shape](https://openclipart.org/detail/182185/man-shape) at openclipart.
-* Female silouhette came from the female from the [Man/woman shape Calr Sagan plate](https://openclipart.org/detail/269831/manwoman-shape-carl-sagan-plate) at openclipart.
+* Male silhouette came from the [man shape](https://openclipart.org/detail/182185/man-shape) at openclipart.
+* Female silhouette came from the female from the [Man/woman shape Carl Sagan plate](https://openclipart.org/detail/269831/manwoman-shape-carl-sagan-plate) at openclipart.
 
 <a href="http://www.epcc.ed.ac.uk">
 <img alt="EPCC logo" src="https://www.epcc.ed.ac.uk/sites/all/themes/epcc/images/epcc-logo.png" height="31"/>

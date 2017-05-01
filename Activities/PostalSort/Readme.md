@@ -37,7 +37,7 @@ less space. This can help you fit more games on your phone!
 
 ## Parallel Sorting Algorithms
 
-Sorting data is also essential on supercomptuers. On a supercomputer
+Sorting data is also essential on supercomputers. On a supercomputer
 you need to carry out your sort on many cores. Hence you need a
 parallel sorting algorithm.
 

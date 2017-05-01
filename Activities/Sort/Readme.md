@@ -13,7 +13,7 @@ tasks in parallel.
 ## Equipment
 
 The equipment required for this activity is relatively simple
-and can go as far as your budget will streach. The miniumum
+and can go as far as your budget will stretch. The minimum
 set-up would be:
 
 * A set of coloured balls or bean bags.
@@ -23,11 +23,11 @@ set-up would be:
 * A sheet of A3 with a pen to note the scores/sticky dots.
 
 Label each of the boxes with the colour that it is supposed to act as a sink for -
-you can either print a label (good to use coloured lables so that green is in green
+you can either print a label (good to use coloured labels so that green is in green
 ink for those that are too young to read) for each box or you could get coloured 
 boxes/trugs that match the colour of the objects that you are trying to sort.
 
-You can be as sophistcated as you like. We started off with simple boxes:
+You can be as sophisticated as you like. We started off with simple boxes:
 
 ![Simple boxes](imgs/setup1.png)
 
