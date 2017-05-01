@@ -52,6 +52,8 @@ An example: The parallel bucket sort
 A set of numbers can be sorted using a bucket sort. This starts by
 separating the numbers into groups – called buckets.
 
+![Bucket sort](imgs/bucket-sort.png)
+
 The numbers inside each bucket are then sorted. Each bucket can be
 sorted in parallel. This is similar to how we sort on a supercomputer
 one core sorts a set of data at the same time that another core sorts
