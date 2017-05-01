@@ -21,7 +21,7 @@ calculations every second (that is a 16 with 14 zeros after it)! We
 use this to build programs that can simulate complicated situations
 very quickly, like air flowing over a car.
 
-In this game, you can see for yourself how parallelism makes difficult
+In this activity, you can see for yourself how parallelism makes difficult
 tasks much easier, and faster.
 
 ## Sorting Algorithms
@@ -59,11 +59,11 @@ sorted in parallel. This is similar to how we sort on a supercomputer
 one core sorts a set of data at the same time that another core sorts
 a different set of data.
 
-# The post sorting game
+# The post sorting activity
 
 ## Setup your demo
 
-To setup your post sorting game, download the address labels and
+To setup your post sorting activity, download the address labels and
 stamps templates:
 
 
@@ -105,7 +105,7 @@ TR1
 TR2
 TR3
 
-### Playing the game: A single-person post sort
+### Running the activity: A single-person post sort
 
 * Arrange your KW1, KW2, KW3, EH1, EH2, EH3, SN1, SN2, SN3, TR1, TR2,
   TR3 boxes on a table.
@@ -121,7 +121,7 @@ Question: How could you sort more envelopes in the same amount of time?
 
 Question: How could you use multiple people to do this sort?
 
-### Playing the game: A two stage sort using multiple people
+### Running the activity: A two stage sort using multiple people
 
 This activity introduces the concept of parallel sorting. The task is
 now split into two 30 second jobs, instead of one 60 job and uses four
