@@ -32,6 +32,7 @@ cards and give each of them 3 cards:
 ![Starting configuration](imgs/MessagePassing1.png)
 
 Get each participant to sort the cards they have been assigned:
+
 ![Local sort](imgs/MessagePassing2.png)
 
 Now number your participants starting from 0 to P-1, where P is the
@@ -41,7 +42,7 @@ implement this type of algorithm starts counting from zero). You have
 to proceed with the algorithm in two phases:
 
 Get each even numbered participant to compare the highest number they
-with have lowest number the person on the right has which means odd
+with have lowest number the person on the right has which means that odd
 numbered participants must turn to the people on their right and
 compare their lowest number with the highest number the person on the
 right has. If the lower number is higher than the high number then
@@ -49,23 +50,28 @@ swap otherwise do nothing. If you are on of the participants standing
 at the ends and you have no participant on your left or your right do
 nothing.
 	     
-![Starting configuration](imgs/MessagePassing3.png)
+![First message passing](imgs/MessagePassing3.png)
 
 Do a local sort of the numbers each participant has.
    
-![Starting configuration](imgs/MessagePassing4.png)
+![Second local sort](imgs/MessagePassing4.png)
 
 Now even numbered participants must turn to people on their right and
 show their lowest number and compare it with the highest number of the
 person on the right. Odd numbered people turn to people on their left
 and show their left and show their highest
 
-![Starting configuration](imgs/MessagePassing5.png)
+![First message passing](imgs/MessagePassing5.png)
 
-Continue doing these three steps until all the cards are globally
-sorted, the stopping condition is ???
+Now you do another local sort:
 
-![Final configuration](imgs/MessagePassing6.png)
+![Second local sort](imgs/MessagePassing6.png)
+
+and you go back to the first message passing routine until all the cards are sorted:
+
+![Final configuration](imgs/MessagePassing7.png)
+
+What is the terminating condition? How do you get all the processes to recognise that the entire list has been sorted if you are only privvy to your own local data?
 
 ## Scenarios
 
