@@ -25,24 +25,25 @@ Perhaps, for this reason, this activity is more suitable for a
 classroom environment rather than a science festival. It is also
 relatively easy to get yourself and/or participants in a muddle.
 
-For this example we will assume you have 3 people and a set of cards
-numbered from 1 to 12. Get people to stand in a line, shuffle the
+For this example the illustrations will assume you have 3 people and a set of cards
+numbered from 1 to 12 but bear in mind that normally you will have a larger group of people. Number your participants starting from 0 to P-1, where P is the
+total number of participants (you can use 1 to P but the Message
+Passing Interface (MPI) library that would generally be used to
+implement this type of algorithm starts counting from zero). 
+
+<!-- Do not put a new line when going to a new 
+     numbered item otherwise markdown will start
+     renumbering from 1! -->
+     
+1. Get people to stand in a line, shuffle the
 cards and give each of them 3 cards:
 
 ![Starting configuration](imgs/MessagePassing1.png)
-
-Get each participant to sort the cards they have been assigned:
+2. Get each participant to sort the cards they have been assigned:
 
 ![Local sort](imgs/MessagePassing2.png)
-
-Now number your participants starting from 0 to P-1, where P is the
-total number of participants (you can use 1 to P but the Message
-Passing Interface (MPI) library that would generally be used to
-implement this type of algorithm starts counting from zero). You have
-to proceed with the algorithm in two phases:
-
-Get each even numbered participant to compare the highest number they
-with have lowest number the person on the right has which means that odd
+3. Now get each even numbered participant to compare the highest number they have
+with the lowest number the person on the right has which means that odd
 numbered participants must turn to the people on their right and
 compare their lowest number with the highest number the person on the
 right has. If the lower number is higher than the high number then
@@ -51,27 +52,23 @@ at the ends and you have no participant on your left or your right do
 nothing.
 	     
 ![First message passing](imgs/MessagePassing3.png)
-
-Do a local sort of the numbers each participant has.
+4. a local sort of the numbers each participant has.
    
 ![Second local sort](imgs/MessagePassing4.png)
-
-Now even numbered participants must turn to people on their right and
+5. Now even numbered participants must turn to people on their right and
 show their lowest number and compare it with the highest number of the
 person on the right. Odd numbered people turn to people on their left
 and show their left and show their highest
 
 ![First message passing](imgs/MessagePassing5.png)
-
-Now you do another local sort:
+6. Now you do another local sort:
 
 ![Second local sort](imgs/MessagePassing6.png)
-
-and you go back to the first message passing routine until all the cards are sorted:
+7. Go back to the first message passing routine until all the cards are sorted:
 
 ![Final configuration](imgs/MessagePassing7.png)
 
-What is the terminating condition? How do you get all the processes to recognise that the entire list has been sorted if you are only privvy to your own local data?
+What is the terminating condition? As you have global oversight it's easy to see when the list will be completely sorted. How do you get all the processes to recognise that the entire list has been sorted if you are only privvy to your own local data?
 
 ## Scenarios
 
@@ -81,6 +78,8 @@ What is the terminating condition? How do you get all the processes to recognise
 * Female silhouette came from the female from the [Man/woman shape Carl Sagan plate](https://openclipart.org/detail/269831/manwoman-shape-carl-sagan-plate) at openclipart.
 
 <!-- Licensing and copyright stuff below -->
+<p/>
+---
 <a href="http://www.epcc.ed.ac.uk">
 <img alt="EPCC logo" src="https://www.epcc.ed.ac.uk/sites/all/themes/epcc/images/epcc-logo.png" height="31"/>
 </a>
