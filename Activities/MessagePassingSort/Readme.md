@@ -79,7 +79,6 @@ What is the terminating condition? As you have global oversight it's easy to see
 
 <!-- Licensing and copyright stuff below -->
 <p/>
----
 <a href="http://www.epcc.ed.ac.uk">
 <img alt="EPCC logo" src="https://www.epcc.ed.ac.uk/sites/all/themes/epcc/images/epcc-logo.png" height="31"/>
 </a>
