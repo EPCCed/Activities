@@ -18,10 +18,38 @@
 
 * List of cards with a number on each card, repetitions allowed, make them quite
   low so that they will be have to be added by the participants.
+* A set of empty cards for people to fill their local sums in. If you laminate and
+  use a white board pen you may be able to re-use these - in this instance it might
+  also be helpful to have a set of cloths to wipe the numbers.
+* It might also be useful to have precomputed the sum of the cards that you will use
+  to ensure that you get the correct answer at the end.
 
 ## Method
 
 ### Master-slave model
+
+* Give all participants a blank card and a pen.
+* Decide who is going to take on the role of the master slave. Give them the 
+   numbered cards.
+* Get the master to shuffle the cards and distribute the cards evenly amongst the
+  worker nodes. If there are spare cards get the participants to decide on the best
+  strategy, e.g.
+   * If all participants are of the same ability you could distribute the remainder
+     evenly amongst participants, so some end up with an extra card.
+   * If participants are of different abilities you could give the extra cards to 
+     the person who is best at sums or the oldest.
+   * etc.
+* Each participant will calculate the sum of all the cards they have been assigned
+  and return the sum to the master process.
+* Master process will sum up the partial sums as they receive them to calculate
+  the global sum.
+* Check that the global sum agrees with your precalculated value - if not you
+  may have to undergo a debugging phase.
+
+Discussion points:
+
+* Trying to achieve good parallelism means keeping all the processors busy doing
+  useful work. Where do the weaknesses in the above algorithm lie?
 
 ### Peer-based model
 
