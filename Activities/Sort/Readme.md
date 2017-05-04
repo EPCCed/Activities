@@ -22,12 +22,15 @@ set-up would be:
 * A timer (digital or analogue) that can count down 30s or 1min.
 * A sheet of A3 with a pen to note the scores/sticky dots.
 
-Label each of the boxes with the colour that it is supposed to act as a sink for -
-you can either print a label (good to use coloured labels so that green is in green
-ink for those that are too young to read) for each box or you could get coloured 
-boxes/trugs that match the colour of the objects that you are trying to sort.
+Label each of the boxes with the colour that it is supposed to act
+as a sink for - you can either print a label (good to use coloured
+labels so that green is in green ink for those that are too young
+to read, here is a [pdf&nbsp;file](pdf/SortingLabels.pdf) you could
+use to this end) for each box or you could get coloured boxes/trugs
+that match the colour of the objects that you are trying to sort.
 
-You can be as sophisticated as you like. We started off with simple boxes:
+You can be as sophisticated as you like. We started off with simple
+boxes:
 
 ![Simple boxes](imgs/setup1.png)
 
