@@ -4,6 +4,7 @@ Each directory contains a description and the materials required to run each act
 
 * `Sort` - an embarrassingly parallel demonstration of the benefits of parallelism.
 * `PostalSort` - also embarrassingly parallel sort but slightly more complicated than the previous.
+* `ParallelSums` - calculating the sum of a list of numbers using a master-slave paradigm and a peerless one.
 * `MessagePassingSort` - sorting a distributed list of numbers. This requires some explanation so not ideally
    suited to a high throughput environment.
 
