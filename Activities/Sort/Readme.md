@@ -39,10 +39,14 @@ moved on to use trugs and a boxes:
 ![Box and trugs](imgs/setup2.png)
 
 and now use trugs placed on a flower stand and have changed the
-balls for small pyramid bean bags. The one thing that you do need
-to be careful with is that the action at the ball source container
-can get a little bit frenetic so make sure that there are no sharp
-edges or hard bits that could cause damage to young hands.
+balls for small pyramid bean bags. 
+
+![Flower stand with trugs](imgs/flower-stand.png)
+
+The one thing that you do need to be careful with is that the action
+at the ball source container can get a little bit frenetic so make
+sure that there are no sharp edges or hard bits that could cause
+damage to young hands.
 
 ## Scenario
 
