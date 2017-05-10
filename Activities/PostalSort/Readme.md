@@ -2,6 +2,7 @@
 
 ## Learning objectives
 
+## Equipment
 
 ## Parallel Sorting Algorithms
 
