@@ -35,47 +35,45 @@ To setup your post sorting activity, download the address labels and
 stamps templates:
 
 
-* Print address labels: print the address labels on Avery No. L7163
+* *Print address labels*: print the address labels on Avery No. L7163
   post label pages (or equivalent). Here is an
   [example&nbsp;set](pdf/Post_sorting_address_labels_AveryL7163.pdf)  of
   labels. Ideally print three to five copies of these first three
   pages, resulting in multiple sets.
-* Print the stamps. Here is an
+* *Print the stamps*. Here is an
   [example&nbsp;set](pdf/Post_sorting_stamps_AveryL4736REV-25.pdf)
   of stamps. Print the ARCHER stamps to complete your letters
   on Avery No. L4736REV-25 labels (or equivalent). There are 48
   stamps per page. Print enough so you have one per address label
   (for three full sets of address pages you will need 2 sheets).
   Spare labels can be given out as badges.
-* Setup up your envelopes. Stick an address label and stamp on each
+* *Setup up your envelopes*. Stick an address label and stamp on each
   envelope. One full set is 36 addresses, so for three sets you
-  will need 144 envelopes, for five setups you will need 216 envelopes
-  .
-* Gather sorting boxes.  * Source 12 boxes to sort your envelopes
-into. Examples include the
-  lids of photocopier paper boxes. These will be labelled
-* Source 5 boxes/bags to sort envelopes from. Examples include a
-  simple bag or the bottom of photocopier paper boxes. These are
-  left unlabelled.
-* Label your boxes. Label each sorting box, labelling one box with
+  will need 144 envelopes, for five setups you will need 216 envelopes.
+* *Gather sorting boxes*.  
+  * Source 12 boxes to sort your envelopes into. Examples include the
+    lids of photocopier paper boxes. These will be labelled
+  * Source 5 boxes/bags to sort envelopes from. Examples include a
+    simple bag or the bottom of photocopier paper boxes. These are
+    left unlabelled.
+* *Label your boxes*. Label each sorting box, labelling one box with
   each of the following:
-
-KW
-KW1
-KW2
-KW3
-EH
-EH1
-EH2
-EH3
-SN
-SN1
-SN2
-SN3
-TR
-TR1
-TR2
-TR3
+   * KW
+   * KW1
+   * KW2
+   * KW3
+   * EH
+   * EH1
+   * EH2
+   * EH3
+   * SN
+   * SN1
+   * SN2
+   * SN3
+   * TR
+   * TR1
+   * TR2
+   * TR3
 
 ### Running the activity: A single-person post sort
 
