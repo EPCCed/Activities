@@ -1,39 +1,7 @@
 # Postal sort
 
-Every year in Britain, more than 15 billion (that’s 15 followed by 9
-zeros!) letters and parcels are sent through the post. That’s around
-40 million pieces of post per day! The Post Office has to make sure
-that all of the letters and parcels gets to their destination as soon
-as possible. To do this, the Sorting Office needs to have a system
-that lets it sort many pieces of post at the same time. For example,
-if there is only one sorting machine, they can only sort one piece of
-post at a time. However, if there are five machines, they can sort
-through the post much faster! This is called parallelism.
+## Learning objectives
 
-This is what EPCC does. At EPCC, we use parallelism to build very fast
-computers. People can then use these to solve difficult tasks, like
-designing cars, modelling the universe, seeing how molecules interact
-or predicting the weather – things that are too small, too big, too
-fast or take to long to do experiments on. Each computer is made of
-lots of smaller computer 'brains', called cores. Our biggest computer,
-ARCHER, has 118,080 cores and can do 1 600 000 000 000 000
-calculations every second (that is a 16 with 14 zeros after it)! We
-use this to build programs that can simulate complicated situations
-very quickly, like air flowing over a car.
-
-In this activity, you can see for yourself how parallelism makes difficult
-tasks much easier, and faster.
-
-## Sorting Algorithms
-
-Computers, phones and tablets read in and write out lots of
-data. Sorting this data is essential.
-
-You may for example want to order your data, with the largest values
-first.
-
-Good sorting algorithms make your computer code run faster and take up
-less space. This can help you fit more games on your phone!
 
 ## Parallel Sorting Algorithms
 
@@ -59,32 +27,36 @@ sorted in parallel. This is similar to how we sort on a supercomputer
 one core sorts a set of data at the same time that another core sorts
 a different set of data.
 
-# The post sorting activity
+## The post sorting activity
 
-## Setup your demo
+### Setting up the demo
 
 To setup your post sorting activity, download the address labels and
 stamps templates:
 
 
 * Print address labels: print the address labels on Avery No. L7163
-  post label pages (or equivalent). This is ‘one set’ of
+  post label pages (or equivalent). Here is an
+  [example&nbsp;set](pdf/Post_sorting_address_labels_AveryL7163.pdf)  of
   labels. Ideally print three to five copies of these first three
   pages, resulting in multiple sets.
-* Print the stamps. Print the ARCHER stamps to complete your letters
-  on Avery No. L4736REV-25 labels (or equivalent). There are 48 stamps
-  per page. Print enough so you have one per address label (for three
-  full sets of address pages you will need 2 sheets). Spare labels can
-  be given out as badges.
+* Print the stamps. Here is an
+  [example&nbsp;set](pdf/Post_sorting_stamps_AveryL4736REV-25.pdf)
+  of stamps. Print the ARCHER stamps to complete your letters
+  on Avery No. L4736REV-25 labels (or equivalent). There are 48
+  stamps per page. Print enough so you have one per address label
+  (for three full sets of address pages you will need 2 sheets).
+  Spare labels can be given out as badges.
 * Setup up your envelopes. Stick an address label and stamp on each
-  envelope. One full set is 36 addresses, so for three sets you will
-  need 144 envelopes, for five setups you will need 216 envelopes .
-* Gather sorting boxes.
-* Source 12 boxes to sort your envelopes into. Examples include the
+  envelope. One full set is 36 addresses, so for three sets you
+  will need 144 envelopes, for five setups you will need 216 envelopes
+  .
+* Gather sorting boxes.  * Source 12 boxes to sort your envelopes
+into. Examples include the
   lids of photocopier paper boxes. These will be labelled
 * Source 5 boxes/bags to sort envelopes from. Examples include a
-  simple bag or the bottom of photocopier paper boxes. These are left
-  unlabelled.
+  simple bag or the bottom of photocopier paper boxes. These are
+  left unlabelled.
 * Label your boxes. Label each sorting box, labelling one box with
   each of the following:
 
