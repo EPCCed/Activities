@@ -2,7 +2,33 @@
 
 ## Learning objectives
 
+
 ## Equipment
+
+You will need:
+
+  * A 30 second/minute count down timer.
+  * 12 boxes/letter trays/desk trays to sort envelopes into. Examples include the
+    lids of photocopier paper boxes, stackable letter desktop trays, etc. 
+  * 5 boxes/bags to sort envelopes from. Examples include a
+    simple bag or the bottom of photocopier paper boxes.
+  * Envelopes for your participants to sort. You can can make your
+    own or you could print the following example 36
+    [address&nbsp;labels](pdf/Post_sorting_address_labels_AveryL7163.pdf)
+    on Avery No. L7163 post label pages (or equivalent).  Ideally
+    print three to five copies of these first three pages, resulting
+    in multiple sets. If you are feeling energetic you can also
+    print a set of [stamps](pdf/Post_sorting_stamps_AveryL4736REV-25.pdf)
+    for your letters. You can print these ARCHER stamps to complete
+    your letters on Avery No. L4736REV-25 labels (or equivalent).
+    There are 48 stamps per page. Print enough so you have one per
+    address label (for three full sets of address pages you will
+    need 2 sheets).  Spare labels can be given out as badges. As
+    the completed letters are likely to get a lot of handling you
+    should ideally laminate them.
+
+You can localise the demo to use your own regional addresses. We have provided
+examples with ARCHER branding and UK addresses.
 
 ## Parallel Sorting Algorithms
 
@@ -35,28 +61,9 @@ a different set of data.
 To setup your post sorting activity, download the address labels and
 stamps templates:
 
-
-* **Print address labels**: print the address labels on Avery No. L7163
-  post label pages (or equivalent). Here is an
-  [example&nbsp;set](pdf/Post_sorting_address_labels_AveryL7163.pdf)  of
-  labels. Ideally print three to five copies of these first three
-  pages, resulting in multiple sets.
-* **Print the stamps**. Here is an
-  [example&nbsp;set](pdf/Post_sorting_stamps_AveryL4736REV-25.pdf)
-  of stamps. Print the ARCHER stamps to complete your letters
-  on Avery No. L4736REV-25 labels (or equivalent). There are 48
-  stamps per page. Print enough so you have one per address label
-  (for three full sets of address pages you will need 2 sheets).
-  Spare labels can be given out as badges.
 * **Setup up your envelopes**. Stick an address label and stamp on each
   envelope. One full set is 36 addresses, so for three sets you
   will need 144 envelopes, for five setups you will need 216 envelopes.
-* **Gather sorting boxes**.  
-  * Source 12 boxes to sort your envelopes into. Examples include the
-    lids of photocopier paper boxes. These will be labelled
-  * Source 5 boxes/bags to sort envelopes from. Examples include a
-    simple bag or the bottom of photocopier paper boxes. These are
-    left unlabelled.
 * **Label your boxes**. Label each sorting box, labelling one box with
   each of the following:
    * KW
@@ -79,7 +86,7 @@ stamps templates:
 ### Running the activity: A single-person post sort
 
 * Arrange your KW1, KW2, KW3, EH1, EH2, EH3, SN1, SN2, SN3, TR1, TR2,
-  TR3 boxes on a table.
+  TR3 boxes on the floor or a table.
 
 * Put all unsorted envelopes into an unlabelled box/bag.  One person:
   taking one envelope at a time out of the bag sort the envelopes into
