@@ -2,10 +2,14 @@
 
 ## Learning objectives
 
+* Multiple people sorting will do more than one person in the same
+  time or the same end can be achieved in less time.
+   * Modern parallel computers operate on the same principle.
+
 
 ## Equipment
 
-You will need:
+To perfor this activity you will need:
 
   * A 30 second/minute count down timer.
   * 12 boxes/letter trays/desk trays to sort envelopes into. Examples include the
@@ -42,7 +46,7 @@ Examples include:
 * [Bubble sort](https://en.wikipedia.org/wiki/Bubble_sort) 
 * [Radix sort](https://en.wikipedia.org/wiki/Radix_sort)
 
-An example: The parallel bucket sort
+### Example: The parallel bucket sort
 
 A set of numbers can be sorted using a bucket sort. This starts by
 separating the numbers into groups – called buckets.
@@ -83,26 +87,25 @@ stamps templates:
    * TR2
    * TR3
 
-### Running the activity: A single-person post sort
+### Running the activity 
+
+A single-person post sort
 
 * Arrange your KW1, KW2, KW3, EH1, EH2, EH3, SN1, SN2, SN3, TR1, TR2,
   TR3 boxes on the floor or a table.
 
-* Put all unsorted envelopes into an unlabelled box/bag.  One person:
-  taking one envelope at a time out of the bag sort the envelopes into
+* Put all unsorted envelopes into an unlabelled box/bag.  
+
+* One person: see how many envelopes they can sort in a minute by only
+  taking one envelope at a time out of the bag to sort the envelopes into
   the boxes based on the first two letters and first number of the
   postcode.
 
-Question: How many envelopes can you sort in 60 seconds? 
-
-Question: How could you sort more envelopes in the same amount of time? 
-
-Question: How could you use multiple people to do this sort?
 
 ### Running the activity: A two stage sort using multiple people
 
 This activity introduces the concept of parallel sorting. The task is
-now split into two 30 second jobs, instead of one 60 job and uses four
+now split into two 30 second jobs, instead of one 60 second job and uses four
 people that we will call A, B, C, D and E.
 
 Step one: one person for 30 seconds
@@ -115,7 +118,7 @@ Person A: taking one envelope at a time out of the bag sort the
 envelopes into the boxes based on the first two letters of the
 postcode.
 
-Question: How many envelopes can you sort in 30 seconds? 
+**Question**: How many envelopes can you sort in 30 seconds? 
 
 Step two: four people for 30 seconds
 
@@ -140,14 +143,20 @@ Person E: taking one envelope at a time from box TR sort the envelopes
 into the boxes based on the first number of the postcode into boxes
 TR1, TR2, TR3.
 
-Question: How many envelopes do People B, C, D and E sort in 30 seconds? 
+## Discussion points
 
-Question: How does this compare to a single person sort?
+**Question**: How could you sort more envelopes in the same amount of time? 
 
-Question: How could you make this more efficient? (consider placement
+**Question**: How could you use multiple people to do this sort?
+
+**Question**: How many envelopes do People B, C, D and E sort in 30 seconds? 
+
+**Question**: How does this compare to a single person sort?
+
+**Question**: How could you make this more efficient? (consider placement
 of boxes, overlapping step one and step two etc.)
 
-Question: What happens when you add more friends? Could you
+**Question**: What happens when you add more friends? Could you
 parallelise this sort further by sorting by the second number as well?
 What would be the benefit of this? Can you plot the number of letters
 sorted against the number of friends helping in the sort?
