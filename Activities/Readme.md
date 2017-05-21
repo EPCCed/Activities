@@ -13,6 +13,7 @@ Each directory contains a description and the materials required to run each act
 * `ParallelWordCount` - a parallel word count activity modelled on MapReduce.
  
 <!-- Licensing and copyright stuff below -->
+<br>
 <a href="http://www.epcc.ed.ac.uk">
 <img alt="EPCC logo" src="https://www.epcc.ed.ac.uk/sites/all/themes/epcc/images/epcc-logo.png" height="31"/>
 </a>

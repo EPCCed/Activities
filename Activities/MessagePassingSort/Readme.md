@@ -25,11 +25,13 @@ Perhaps, for this reason, this activity is more suitable for a
 classroom environment rather than a science festival. It is also
 relatively easy to get yourself and/or participants in a muddle.
 
-For this example the illustrations will assume you have 3 people and a set of cards
-numbered from 1 to 12 but bear in mind that normally you will have a larger group of people. Number your participants starting from 0 to P-1, where P is the
-total number of participants (you can use 1 to P but the Message
-Passing Interface (MPI) library that would generally be used to
-implement this type of algorithm starts counting from zero). 
+For this example the illustrations will assume you have 3 people
+and a set of cards numbered from 1 to 12 but bear in mind that
+normally you will have a larger group of people. Number your
+participants starting from 0 to P-1, where P is the total number
+of participants (you can use 1 to P but the Message Passing Interface
+(MPI) library that would generally be used to implement this type
+of algorithm starts counting from zero).
 
 <!-- Do not put a new line when going to a new 
      numbered item otherwise markdown will start
@@ -78,7 +80,7 @@ What is the terminating condition? As you have global oversight it's easy to see
 * Female silhouette came from the female from the [Man/woman shape Carl Sagan plate](https://openclipart.org/detail/269831/manwoman-shape-carl-sagan-plate) at openclipart.
 
 <!-- Licensing and copyright stuff below -->
-<p/>
+<br>
 <a href="http://www.epcc.ed.ac.uk">
 <img alt="EPCC logo" src="https://www.epcc.ed.ac.uk/sites/all/themes/epcc/images/epcc-logo.png" height="31"/>
 </a>

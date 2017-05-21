@@ -93,6 +93,7 @@ homogenous system, e.g. a 5-year old child setting the baseline and
 then performing the same task with their parent.
 
 <!-- Licensing and copyright stuff below -->
+<br>
 <a href="http://www.epcc.ed.ac.uk">
 <img alt="EPCC logo" src="https://www.epcc.ed.ac.uk/sites/all/themes/epcc/images/epcc-logo.png" height="31"/>
 </a>
