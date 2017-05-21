@@ -3,7 +3,6 @@
 Each directory contains a description and the materials required to run each activity. We have:
 
 * `Sort` - an embarrassingly parallel demonstration of the benefits of parallelism.
-* `PostalSort` - another embarrassingly parallel sort but slightly more complicated than the `Sort` activity.
 * `ParallelSums` - calculating the sum of a list of numbers using a master-slave paradigm and a peerless one.
 * `MessagePassingSort` - sorting a distributed list of numbers. This requires some explanation so not ideally
    suited to a high throughput environment.
@@ -11,6 +10,7 @@ Each directory contains a description and the materials required to run each act
 ## To be done
 
 * `ParallelWordCount` - a parallel word count activity modelled on MapReduce.
+* `PostalSort` - another embarrassingly parallel sort but slightly more complicated than the `Sort` activity.
  
 <!-- Licensing and copyright stuff below -->
 <br>
