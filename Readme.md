@@ -6,7 +6,7 @@ public and young people. If you go on to use any of these we would love to hear 
 GitHub id is and I will add you to the repository.
 
 <!-- Licensing and copyright stuff below -->
-<br><br>
+<br>
 <a href="http://www.epcc.ed.ac.uk">
 <img alt="EPCC logo" src="https://www.epcc.ed.ac.uk/sites/all/themes/epcc/images/epcc-logo.png" height="31"/>
 </a>
