@@ -34,29 +34,6 @@ To perfor this activity you will need:
 You can localise the demo to use your own regional addresses. We have provided
 examples with ARCHER branding and UK addresses.
 
-## Parallel Sorting Algorithms
-
-Sorting data is often used on supercomputers. On a supercomputer
-you need to carry out your sort on many cores. Hence you need a
-parallel sorting algorithm.
-
-Examples include:
-
-* [Quicksort](https://en.wikipedia.org/wiki/Quicksort)
-* [Bubble sort](https://en.wikipedia.org/wiki/Bubble_sort) 
-* [Radix sort](https://en.wikipedia.org/wiki/Radix_sort)
-
-### Example: The parallel bucket sort
-
-A set of numbers can be sorted using a bucket sort. This starts by
-separating the numbers into groups – called buckets.
-
-![Bucket sort](imgs/bucket-sort.png)
-
-The numbers inside each bucket are then sorted. Each bucket can be
-sorted in parallel. This is similar to how we sort on a supercomputer
-one core sorts a set of data at the same time that another core sorts
-a different set of data.
 
 ## The post sorting activity
 
