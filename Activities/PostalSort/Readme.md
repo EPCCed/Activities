@@ -1,7 +1,7 @@
 # Postal sort
 
 ## Motivation
-This is an example of a two bucket sort - we have a number of letters with specific postcodes. We first
+This is an example of a [bucket sort](https://en.wikipedia.org/wiki/Bucket_sort) - we have a number of letters with specific postcodes. We first
 separate the postcodes into the major components so all of the EH10, EH21 and EH32 get aggregated into an EH box, the TR10, TR21 and TR32 get aggregated into a TR box and so on. These are later separated into the individual components. 
 
 Bucket sorts start by separating the numbers into groups – called buckets.
