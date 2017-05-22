@@ -1,5 +1,16 @@
 # Postal sort
 
+## Motivation
+This is an example of a two bucket sort - we have a number of letters with specific postcodes. We first
+separate the postcodes into the major components so all of the EH10, EH21 and EH32 get aggregated into an EH box, the TR10, TR21 and TR32 get aggregated into a TR box and so on. These are later separated into the individual components. 
+
+Bucket sorts start by separating the numbers into groups – called buckets.
+
+![An example of a bucket sort](imgs/bucket-sort.png)
+
+
+The numbers inside each bucket are then sorted. Each bucket can be sorted in parallel. 
+
 ## Learning objectives
 
 * Multiple people sorting will do more than one person in the same
@@ -9,13 +20,14 @@
 
 ## Equipment
 
-To perfor this activity you will need:
+To perform this activity you will need:
 
   * A 30 second/minute count down timer.
   * 12 boxes/letter trays/desk trays to sort envelopes into. Examples include the
     lids of photocopier paper boxes, stackable letter desktop trays, etc. 
-  * 5 boxes/bags to sort envelopes from. Examples include a
-    simple bag or the bottom of photocopier paper boxes.
+  * A number of boxes/bags to pre-sort envelopes to. The number of containers you will need depends on the type of postcodes you are dealing with - for instance in the picture below we are only dealing with KW, TR and EH postcodes so you only need 3 pre-sorting trays. If you use all the postcodes in the samples below you will need four containters. Examples of these are
+    simple bags or the bottom of photocopier paper boxes.
+  * A box/bag to act as the primary source to sort all the envelopes from.
   * Envelopes for your participants to sort. You can can make your
     own or you could print the following example 36
     [address&nbsp;labels](pdf/Post_sorting_address_labels_AveryL7163.pdf)
@@ -31,9 +43,14 @@ To perfor this activity you will need:
     the completed letters are likely to get a lot of handling you
     should ideally laminate them.
 
-You can localise the demo to use your own regional addresses. We have provided
-examples with ARCHER branding and UK addresses.
+You can localise the demo to use your own regional addresses. We provid pdf
+examples with ARCHER branding and UK addresses above.
 
+![Example kit](imgs/postal-kit.png)
+Example kit with the bag containing the envelopes on the left, the pre-sorting trays in the trolley (we were unable to use these because of space constraints) and the labelled final pigeon holes the letters go into.
+
+![Kit in use](imgs/post-in-use.png)
+Here is the kit in use.
 
 ## The post sorting activity
 
@@ -48,21 +65,21 @@ stamps templates:
 * **Label your boxes**. Label each sorting box, labelling one box with
   each of the following:
    * KW
-   * KW1
-   * KW2
-   * KW3
+      * KW1
+      * KW2
+      * KW3
    * EH
-   * EH1
-   * EH2
-   * EH3
+      * EH1
+      * EH2
+      * EH3
    * SN
-   * SN1
-   * SN2
-   * SN3
+      * SN1
+      * SN2
+      * SN3
    * TR
-   * TR1
-   * TR2
-   * TR3
+      * TR1
+      * TR2
+      * TR3
 
 ### Running the activity 
 
@@ -139,7 +156,6 @@ What would be the benefit of this? Can you plot the number of letters
 sorted against the number of friends helping in the sort?
 
 <!-- Licensing and copyright stuff below -->
-<br>
 <a href="http://www.epcc.ed.ac.uk">
 <img alt="EPCC logo" src="https://www.epcc.ed.ac.uk/sites/all/themes/epcc/images/epcc-logo.png" height="31"/>
 </a>
