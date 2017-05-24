@@ -1,21 +1,33 @@
 # Postal sort
 
 ## Motivation
-This is an example of a [bucket sort](https://en.wikipedia.org/wiki/Bucket_sort) - we have a number of letters with specific postcodes. We first
-separate the postcodes into the major components so all of the EH10, EH21 and EH32 get aggregated into an EH box, the TR10, TR21 and TR32 get aggregated into a TR box and so on. These are later separated into the individual components. 
+This is an example of a [bucket
+sort](https://en.wikipedia.org/wiki/Bucket_sort) - we have a number
+of letters with specific postcodes that need to be sorted for
+delivery. We first separate the postcodes into the major components
+so all of the EH10, EH21 and EH32 get aggregated into an EH box,
+the TR10, TR21 and TR32 get aggregated into a TR box and so on.
+These are later separated into the individual components ready for
+the postman to deliver them.
 
-Bucket sorts start by separating the numbers into groups – called buckets.
+In general, bucket sorts start by separating the numbers into groups
+– called buckets. In the example below the numbers are first separated
+into three buckets: numbers below or equal to 10, numbers between
+11 and up to and including 20 and over 20.
 
 ![An example of a bucket sort](imgs/bucket-sort.png)
 
 
-The numbers inside each bucket are then sorted. Each bucket can be sorted in parallel. 
+The numbers inside each bucket are then sorted. There are two
+different stages that can be parallelised and different strategies
+can be explored to obtain the optimal throughput.
 
 ## Learning objectives
 
 * Multiple people sorting will do more than one person in the same
   time or the same end can be achieved in less time.
-   * Modern parallel computers operate on the same principle.
+   * Modern computers employ parallelism to the same ends.
+
 
 
 ## Equipment
