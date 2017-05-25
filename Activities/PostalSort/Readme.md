@@ -2,12 +2,12 @@
 
 ## Motivation
 This is an example of a [bucket
-sort](https://en.wikipedia.org/wiki/Bucket_sort) - we have a number
+sort](https://en.wikipedia.org/wiki/Bucket_sort). For this activity we have a number
 of letters with specific postcodes that need to be sorted for
-delivery. We first separate the postcodes into the major components
-so all of the EH10, EH21 and EH32 get aggregated into an EH box,
+delivery. We first separate the postcodes into the major components:
+so for the example provided all of the EH10, EH21 and EH32 need to be aggregated into an EH box,
 the TR10, TR21 and TR32 get aggregated into a TR box and so on.
-These are later separated into the individual components ready for
+The letters are later separated into the individual postcodes ready for
 the postman to deliver them.
 
 In general, bucket sorts start by separating the numbers into groups
@@ -19,7 +19,7 @@ into three buckets: numbers below or equal to 10, numbers between
 
 
 The numbers inside each bucket are then sorted. There are two
-different stages that can be parallelised and different strategies
+different stages that can thus be parallelised and different strategies
 can be explored to obtain the optimal throughput.
 
 ## Learning objectives
@@ -37,10 +37,15 @@ To perform this activity you will need:
   * A 30 second/minute count down timer.
   * 12 boxes/letter trays/desk trays to sort envelopes into. Examples include the
     lids of photocopier paper boxes, stackable letter desktop trays, etc. 
-  * A number of boxes/bags to pre-sort envelopes to. The number of containers you will need depends on the type of postcodes you are dealing with - for instance in the picture below we are only dealing with KW, TR and EH postcodes so you only need 3 pre-sorting trays. If you use all the postcodes in the samples below you will need four containters. Examples of these are
-    simple bags or the bottom of photocopier paper boxes.
-  * A box/bag to act as the primary source to sort all the envelopes from.
-  * Envelopes for your participants to sort. You can can make your
+  * A number of boxes/bags to pre-sort envelopes to. The number of
+    containers you will need depends on the type of postcodes you
+    are dealing with - for instance in the picture below we are
+    only dealing with KW, TR and EH postcodes so you only need 3
+    pre-sorting trays. If you use all the postcodes in the samples
+    below you will need four containters. You could use simple bags
+    or the bottom of photocopier paper boxes for this.
+  * A box/bag to act as the source for the unsorted envelopes.
+  * You will need envelopes for your participants to sort. You can can make your
     own or you could print the following example 36
     [address&nbsp;labels](pdf/Post_sorting_address_labels_AveryL7163.pdf)
     on Avery No. L7163 post label pages (or equivalent).  Ideally
@@ -51,15 +56,19 @@ To perform this activity you will need:
     your letters on Avery No. L4736REV-25 labels (or equivalent).
     There are 48 stamps per page. Print enough so you have one per
     address label (for three full sets of address pages you will
-    need 2 sheets).  Spare labels can be given out as badges. As
+    need 2 sheets). As
     the completed letters are likely to get a lot of handling you
     should ideally laminate them.
 
-You can localise the demo to use your own regional addresses. We provid pdf
-examples with ARCHER branding and UK addresses above.
+You can localise the demo to use your own regional addresses. We
+have provided pdf examples with ARCHER branding and UK addresses
+above.
 
 ![Example kit](imgs/postal-kit.png)
-Example kit with the bag containing the envelopes on the left, the pre-sorting trays in the trolley (we were unable to use these because of space constraints) and the labelled final pigeon holes the letters go into.
+Example kit with the bag containing the envelopes on the left, the
+pre-sorting trays in the trolley (we were unable to use these because
+of space constraints) and the labelled final pigeon holes the letters
+go into.
 
 ![Kit in use](imgs/post-in-use.png)
 Here is the kit in use.
