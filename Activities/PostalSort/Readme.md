@@ -64,7 +64,7 @@ You can localise the demo to use your own regional addresses. We
 have provided pdf examples with ARCHER branding and UK addresses
 above.
 
-![Example kit](imgs/postal-kit.png)
+![Example kit](imgs/postal-kit.png)<br>
 Example kit with the bag containing the envelopes on the left, the
 pre-sorting trays in the trolley (we were unable to use these because
 of space constraints) and the labelled final pigeon holes the letters
