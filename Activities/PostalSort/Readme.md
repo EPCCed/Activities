@@ -25,7 +25,7 @@ can be explored to obtain the optimal throughput.
 ## Learning objectives
 
 * Multiple people sorting will do more than one person in the same
-  time or the same end can be achieved in less time.
+ amount of time or the same end can be achieved in less time.
    * Modern computers employ parallelism to the same ends.
 
 
@@ -78,33 +78,34 @@ Here is the kit in use.
 ### Setting up the demo
 
 To setup your post sorting activity, download the address labels and
-stamps templates:
+stamps templates. Select the ones that you are going to use and then:
 
-* **Setup up your envelopes**. Stick an address label and stamp on each
+* **Setup up the envelopes**. Stick an address label and stamp on each
   envelope. One full set is 36 addresses, so for three sets you
-  will need 144 envelopes, for five setups you will need 216 envelopes.
-* **Label your boxes**. Label each sorting box, labelling one box with
-  each of the following:
+  will need 144 envelopes, for five setups you will need 216 envelopes. Laminate these if necessary.
+* **Label your boxes**. Label each box with the postcode that you will use. You may wish to use a subset of postcodes. You will need one for the first stage (the bucket in the bucket sort) and boxes for the second stage sort:
    * KW
-      * KW1
-      * KW2
-      * KW3
-   * EH
-      * EH1
-      * EH2
-      * EH3
+      * KW1 (for KW10, KW14 and KW18)
+      * KW2 (for KW21, KW23, KW24 and KW29)
+      * KW3 (for KW30 and KW32)
+  * EH
+      * EH1 (for EH10, EH14 and EH18)
+      * EH2 (for EH21, EH23, EH24 and EH29)
+      * EH3 (for EH30 and EH32)
    * SN
-      * SN1
-      * SN2
-      * SN3
+      * SN1 (for SN10, SN14 and SN18)
+      * SN2 (for SN21, SN23, SN24 and SN25)
+      * SN3 (for SN30 and SN32)
    * TR
-      * TR1
-      * TR2
-      * TR3
+      * TR1 (for TR10, TR14 and TR18)
+      * TR2 (for TR21, TR23, TR24 and TR29)
+      * TR3 (for TR30 and TR32)
 
-### Running the activity 
+## Running the activity 
 
 A single-person post sort
+
+* Shuffle the envelopes in the source box.
 
 * Arrange your KW1, KW2, KW3, EH1, EH2, EH3, SN1, SN2, SN3, TR1, TR2,
   TR3 boxes on the floor or a table.
