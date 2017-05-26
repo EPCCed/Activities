@@ -70,7 +70,7 @@ pre-sorting trays in the trolley (we were unable to use these because
 of space constraints) and the labelled final pigeon holes the letters
 go into.
 
-![Kit in use](imgs/post-in-use.png)
+![Kit in use](imgs/post-in-use.png)<br>
 Here is the kit in use.
 
 ## The post sorting activity
