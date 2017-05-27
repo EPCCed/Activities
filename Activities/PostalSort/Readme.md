@@ -34,7 +34,7 @@ can be explored to obtain the optimal throughput.
 
 To perform this activity you will need:
 
-  * A 30 second/minute count down timer.
+  * A count down timer.
   * 12 boxes/letter trays/desk trays to sort envelopes into. Examples include the
     lids of photocopier paper boxes, stackable letter desktop trays, etc. 
   * A number of boxes/bags to pre-sort envelopes to. The number of
@@ -103,22 +103,21 @@ stamps templates. Select the ones that you are going to use and then:
 
 ## Running the activity 
 
-A single-person post sort
 
 * Shuffle the envelopes in the source box.
+* Arrange your EH, KW, SN and TR boxes around the source box.
 
-* Arrange your KW1, KW2, KW3, EH1, EH2, EH3, SN1, SN2, SN3, TR1, TR2,
-  TR3 boxes on the floor or a table.
+* Arrange your EH1, EH2 and EH3 boxes around the EH box; your KW1, KW2 and KW3 boxes around the KW and so on...
 
-* Put all unsorted envelopes into an unlabelled box/bag.  
+![Possible arrangeent](imgs/postalsortplan.png)<br>
+Possible arrangement of the boxes.
 
-* One person: see how many envelopes they can sort in a minute by only
-  taking one envelope at a time out of the bag to sort the envelopes into
-  the boxes based on the first two letters and first number of the
-  postcode.
+Now the complex part is how to allocate people to this
+process: you need some people to sort from the source
+box into the pertinent buckets and then other people
+to sort from the buckets into the final delivery bins.
+If you don't have enough people sorting into the buckets then the secondary sorters will 
 
-
-### Running the activity: A two stage sort using multiple people
 
 This activity introduces the concept of parallel sorting. The task is
 now split into two 30 second jobs, instead of one 60 second job and uses four
