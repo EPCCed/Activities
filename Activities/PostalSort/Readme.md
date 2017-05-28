@@ -116,47 +116,21 @@ Now the complex part is how to allocate people to this
 process: you need some people to sort from the source
 box into the pertinent buckets and then other people
 to sort from the buckets into the final delivery bins.
-If you don't have enough people sorting into the buckets then the secondary sorters will 
+If you don't have enough people sorting into the buckets then the secondary sorters will have to wait
+until they have letters to sort. A possible allocation
+is demonstrated in the diagram below.
 
+![Possible allocation](imgs/postalsortallocation.png)<br>
 
-This activity introduces the concept of parallel sorting. The task is
-now split into two 30 second jobs, instead of one 60 second job and uses four
-people that we will call A, B, C, D and E.
-
-Step one: one person for 30 seconds
-
-Arrange your KW, EH, SN and TR boxes on a table.
-
-Put all unsorted envelopes into an unlabelled box/bag.
-
-Person A: taking one envelope at a time out of the bag sort the
-envelopes into the boxes based on the first two letters of the
-postcode.
-
-**Question**: How many envelopes can you sort in 30 seconds? 
-
-Step two: four people for 30 seconds
-
-Arrange your KW1, KW2, KW3, EH1, EH2, EH3, SN1, SN2, SN3, TR1, TR2,
-TR3 boxes on a table.
-
-At the same time:
-
-Person B: taking one envelope at a time from box KW sort the envelopes
-into the boxes based on the first number of the postcode into boxes
-KW1, KW2, KW3.
-
-Person C: taking one envelope at a time from box EH sort the envelopes
-into the boxes based on the first number of the postcode into boxes
-EH1, EH2, EH3.
-
-Person D: taking one envelope at a time from box SN sort the envelopes
-into the boxes based on the first number of the postcode into boxes
-SN1, SN2, SN3.
-
-Person E: taking one envelope at a time from box TR sort the envelopes
-into the boxes based on the first number of the postcode into boxes
-TR1, TR2, TR3.
+In this instance 2 people have been allocated to
+put letters into the buckets and 4 into the delivery
+bins. Is this too few? What is the best configuration
+to maximise the number of letters sorted in a minute?
+Would it be better to put everyone on doing the bucket
+sort and then moving on to the bins or would you be
+better to dynamically move your sorters from the 
+bucket sort to the final bit sort withing the minute
+allocated to do the sorting?
 
 ## Discussion points
 
