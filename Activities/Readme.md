@@ -7,10 +7,11 @@ Each directory contains a description and the materials required to run each act
 * `MessagePassingSort` - sorting a distributed list of numbers. This requires some explanation so not ideally
    suited to a high throughput environment.
 
-## To be done
+### To be done
 
 * `ParallelWordCount` - a parallel word count activity modelled on MapReduce.
 * `PostalSort` - another embarrassingly parallel sort but slightly more complicated than the `Sort` activity.
+* `Reference` - reference materials providing background that may be used at an outreach event.
  
 <!-- Licensing and copyright stuff below -->
 <br>
