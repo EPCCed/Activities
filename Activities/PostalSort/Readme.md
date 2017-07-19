@@ -1,5 +1,33 @@
 # Postal sort
 
+## Background
+
+Often data has to be sorted, for ease of access or for the method in which it is being processed, 
+and sometimes the volume of data or how it has to be sorted on a given identifier is time-consuming. 
+For example, sorting stock by a serial code or number could be a time-consuming comparison for each 
+serial code and to do this for the whole volume of data can be inefficient. If the volume of data is 
+large, then perhaps one machine or person cannot do it alone, so we would have mutliple sorters working together. 
+
+To make large volumes of data in more easily handled volumes of data, we can split it up into chunks and then each sorter can 
+work on a chunk of data, but then we need to have some way to merge them or do lots of communications and swap data between sorters.
+
+To try and make this a little easier, we can use a sorting algorithm called a [bucket
+sort](https://en.wikipedia.org/wiki/Bucket_sort), it is distribution sort related to radix sort but more generalised.
+In this algorithm, we group the data into 'buckets' which have a common identification or grouping (like the numbers 0-9, 10-19, 20-29,...), 
+then these buckets can be sorted individually and do not need to communicate with each other. Inside the buckets can be another bucket sort, a quick sort or it maybe that just getting into that bucket is enough to work with.
+
+
+If we use a list of numbers as our example, the bucket sort starts by separating the numbers into groups known as buckets. 
+In the example below the numbers are first separated into three buckets: numbers below or equal to 10, numbers between
+11 and up to and including 20 and over 20.
+
+![An example of a bucket sort](imgs/bucket-sort.png)
+
+
+The numbers inside each bucket are then sorted. There are two
+different stages that can thus be parallelised and different strategies
+can be explored to obtain the optimal throughput.
+
 ## Learning objectives
 
 * Multiple people sorting can do more than one person in the same
@@ -10,8 +38,8 @@
    * Recognising exploitable data structures and hierarchy.
 
 
+## Scenario
 
-## Motivation
 This is an example of a [bucket
 sort](https://en.wikipedia.org/wiki/Bucket_sort). For this activity we have a number
 of letters with specific postcodes that need to be sorted for
