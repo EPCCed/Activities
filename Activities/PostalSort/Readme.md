@@ -1,5 +1,16 @@
 # Postal sort
 
+## Learning objectives
+
+* Multiple people sorting can do more than one person in the same
+ amount of time or the same end can be achieved in less time.
+   * Reasoning behind modern computers employing parallelism.
+* Concepts of hierarchy in data and processing.
+   * Multiple algorithms in the same overall process.
+   * Recognising exploitable data structures and hierarchy.
+
+
+
 ## Motivation
 This is an example of a [bucket
 sort](https://en.wikipedia.org/wiki/Bucket_sort). For this activity we have a number
@@ -21,12 +32,6 @@ into three buckets: numbers below or equal to 10, numbers between
 The numbers inside each bucket are then sorted. There are two
 different stages that can thus be parallelised and different strategies
 can be explored to obtain the optimal throughput.
-
-## Learning objectives
-
-* Multiple people sorting will do more than one person in the same
- amount of time or the same end can be achieved in less time.
-   * Modern computers employ parallelism to the same ends.
 
 
 
