@@ -12,6 +12,7 @@ Each directory contains a description and the materials required to run each act
 * `ParallelWordCount` - a parallel word count activity modelled on MapReduce.
 * `PostalSort` - another embarrassingly parallel sort but slightly more complicated than the `Sort` activity.
 * `Reference` - reference materials providing background that may be used at an outreach event.
+* `SuperComputingChallenge` - a webapp that can be used at events.
  
 <!-- Licensing and copyright stuff below -->
 <br>
