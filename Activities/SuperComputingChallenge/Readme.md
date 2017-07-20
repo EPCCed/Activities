@@ -11,6 +11,8 @@ the user to upgrade the hardware and thus run more jobs. The budget
 must be maintained and allow for unforseen events to be addressed
 such as node failures which will require cash to repair.
 
+![Supercomputing App in operation.](imgs/SuperComputingApp.png)
+
 ## Objectives
 
 * Keep the computer centre running for as long as possible.
