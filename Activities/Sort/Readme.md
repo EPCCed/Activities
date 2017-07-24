@@ -1,14 +1,14 @@
 # Sorting
 
 The aim of this activity is to demonstrate in a simple and effective manner:
-* the basics of a sorting algorithm and why it is relevant to computing and supercomputing
-* the benefits of performing tasks in parallel and why this is applicable to supercomputing
+* the basics of a sorting algorithm and why it is relevant to computing and supercomputing.
+* the benefits of performing tasks in parallel and why this is applicable to supercomputing.
 
 ## Learning objectives
 
 On completing this activity, participants should have:
-* A basic understanding of one or two methods of sorting and how sorting is used in modern computing and supercomputing
-* An understanding of how supercomputers work in parallel to solve problems
+* A basic understanding of one or two methods of sorting and how sorting is used in modern computing and supercomputing.
+* An understanding of how supercomputers work in parallel to solve problems.
    * How multiple people sorting will do more than one person in the same
   time or the same end can be achieved in less time.
    * How modern parallel computers operate on the same principle.
@@ -146,10 +146,11 @@ the time this takes with different numbers of people.
 
 ## Resources
 
-* Labels for the boxes and trugs are available to download at: [pdf&nbsp;file](pdf/SortingLabels.pdf) 
+* Labels for the boxes and trugs are available to download at: [pdf&nbsp;file](pdf/SortingLabels.pdf).
 * "How do you use a Supercomputer" flyer. This is a good piece of supporting material for this 
-activity, providing a simple overview of sorting and parallel sorting. See:https://www.epcc.ed.ac.uk/sites/default/files/PDF/How_do_you_use_a_supercomputer.pdf
+activity, providing a simple overview of sorting and parallel sorting. See: https://www.epcc.ed.ac.uk/sites/default/files/PDF/How_do_you_use_a_supercomputer.pdf
 
+##
 <!-- Licensing and copyright stuff below -->
 <br>
 <a href="http://www.epcc.ed.ac.uk">
