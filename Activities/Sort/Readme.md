@@ -146,7 +146,7 @@ the time this takes with different numbers of people.
 
 ## Resources
 
-* Labels are available to download at: [pdf&nbsp;file](pdf/SortingLabels.pdf) 
+Labels are available to download at: [pdf&nbsp;file](pdf/SortingLabels.pdf) 
 
 <!-- Licensing and copyright stuff below -->
 <br>
