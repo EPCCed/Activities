@@ -62,11 +62,6 @@ To a set of trugs and a colourful stand (originally a flower stand) with a set o
 
 ![Flower stand with trugs](imgs/flower-stand.png)
 
-Finally, The one thing that you do need to be careful with is that the action
-at the source container can get a little bit frenetic so make
-sure that there are no sharp edges or hard bits that could cause
-damage to young hands.
-
 ## Scenario
 
 To run this activity place the coloured object source and place the
