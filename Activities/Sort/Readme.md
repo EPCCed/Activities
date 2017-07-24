@@ -139,7 +139,14 @@ sure that there are no sharp edges or hard bits that could cause damage to young
 
 Try to get as many people involved in the process, so while one person is sorting another can be the time keeper.
 
+The example above sorts as many balls as you can in a fixed period of time. This is beneficial at 
+e.g. a science festival when you want to place a limit on the time each person interacts with an activity,
+to give others an opportunity to participate. However you can also sort a fixed number of balls and measure 
+the time this takes with different numbers of people.
 
+## Resources
+
+* Labels are available to download at: [pdf&nbsp;file](pdf/SortingLabels.pdf) 
 
 <!-- Licensing and copyright stuff below -->
 <br>
