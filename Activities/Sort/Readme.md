@@ -20,6 +20,12 @@ This activity assumes that you have already discussed the basics of a computer a
 
 ## Overview
 
+The purpose of this activity is to sort a set of coloured balls into their different colours, either measuring the time it takes to sort a fixed number of balls or measuring the number of balls that can be sorted in a fixed amount of time.
+
+Once one person has carried out the sort, the sort is repeated with two people, then with more people again. Each time the time and/or number of balls is recorded.
+
+At the end of the activity you should be able to see that by adding more people you have been able to sort the same number of balls more quickly, or have been able to sort more balls within the same fixed period of time.
+
 ## Equipment
 
 The equipment required for this activity is relatively simple
@@ -33,28 +39,30 @@ set-up would be:
 * A sheet of A3 with a pen sticky dots to note the number of objects sorted
   int the allotted time.
 
-Label each of the coloured object sinks, e.g. boxes, with the colour that
-it is supposed to act as a sink for - you can either print a label
-(good to use coloured labels so that green is in green ink,etc for those
-that are too young to read, e.g. here is a [pdf&nbsp;file](pdf/SortingLabels.pdf) 
-you could use) for each box or you could get coloured boxes/trugs that match the
-colour of the objects that you are trying to sort - you could also lable those.
+Label each of the coloured object sinks, i.e. boxes, with the colour that
+it is supposed to act as a sink for - you can either print a label or get coloured boxes/trugs that match the
+colour of the objects that you are trying to sort - you could also label these.
 
-You can be as sophisticated as you like. We started off with a simple
-set of boxes:
+Note it is helpful to use labels that are both coloured and have the written name of the colour. This allows for both young children who cannot yet read and also for participants who have colour blindness.
+
+Labels are available to download at: [pdf&nbsp;file](pdf/SortingLabels.pdf) 
+
+
+You can be as sophisticated or as simple as you like. Three examples are given below, ranging in price and sophistication. 
+
+Simple boxes can be used, similar to those found in the stationary cupboard at work:
 
 ![Simple boxes](imgs/setup1.png)
 
-moved on to use trugs and a boxes:
+Or a slightly more advanced set of trugs and decorated boxes:
 
 ![Box and trugs](imgs/setup2.png)
 
-and now use trugs placed on a flower stand and have changed the
-balls for small pyramid bean bags. 
+To a set of trugs and a colourful stand (originally a flower stand) with a set of small pyramid bean bags. 
 
 ![Flower stand with trugs](imgs/flower-stand.png)
 
-The one thing that you do need to be careful with is that the action
+Finally, The one thing that you do need to be careful with is that the action
 at the source container can get a little bit frenetic so make
 sure that there are no sharp edges or hard bits that could cause
 damage to young hands.
@@ -62,23 +70,25 @@ damage to young hands.
 ## Scenario
 
 To run this activity place the coloured object source and place the
-ball sinks nearby. You can optionally prepare an A3 sheet with the
+ball sinks nearby. 
+
+You can optionally prepare an A3 sheet with the
 numbered of colour objects you have along the y-axis and the number
 of people involved in the activity on the x-axis (see the diagram
 below), you can then get your participants to register their scores
 as they complete the activity.
 
 Explain to your audience that you are going to demonstrate the
-benefits of doing things in parallelis. Tell them that they can
+benefits of doing things in parallel. Tell them that they can
 only use one hand for this task and only process one object at a
 time so if you are using coloured balls you can only have one coloured
-ball in your hand at a time - this helps to level the playing field as
+ball in your hand at a time. This helps to level the playing field as
 some people, if their hands are large, will be able to handle more
 than one object at a time.
 
 You then:
 
-* Get one person to sort as many coloured objects as they can in 30s. 
+* Get one person to sort as many coloured objects as they can in e.g. 30s. 
 * Count the objects they have sorted. Note down the score and/or get the participant
   to add a sticky dot or mark with a pen to the chart as shown below.
 * Make sure the objects are well shuffled in the source container.
@@ -87,20 +97,37 @@ You then:
 
 ![Keeping track of the coloured objects sorted in 30s.](imgs/scores.png)
 
-Try to get as many people involved in the process, so while one person is sorting
-another can be the time keeper.
 
-## Discussion
+## Discussion - parallelism
 
-You will note that, as the number of people increases, the number
-of objects sorted does not increase linearly. Ask them why this is?
+Discuss your results with the participants. It is likely that the number of balls that have 
+been sorted increases with the number of people sorting. This is very similar to the simplest 
+cases of running a code on a supercomputer - the more processors you add the more work you 
+can do in the same time.
+
+You will also likely note that, as the number of people increases, the number
+of objects sorted does not increase linearly. Ask them why this is.
 Usually there is contention getting to the coloured objects or
 getting access to the source container. You can draw anologies with
-what happens in machines - memory contention, etc. You can also
-introduce the idea of [speedup](https://en.wikipedia.org/wiki/Speedup)
-but bear in mind that in most cases you will not be dealing with a
+what happens in computers - memory contention, etc. You can also
+introduce the idea of [speedup](https://en.wikipedia.org/wiki/Speedup).
+
+Bear in mind that in most cases you will not be dealing with a
 homogenous system, e.g. a 5-year old child setting the baseline and
-then performing the same task with their parent.
+then performing the same task with their parent. Hence don't be surprised if the results don't 
+show perfect speedup, this is all worth discussion and has analogies with computers and supercomputers.
+
+## Discussion - sorting
+
+
+## Other considerations
+
+Depending on the enthusiasm of your participants, the action at the source container can get a little bit frenetic so make
+sure that there are no sharp edges or hard bits that could cause damage to young hands. 
+
+Try to get as many people involved in the process, so while one person is sorting another can be the time keeper.
+
+
 
 <!-- Licensing and copyright stuff below -->
 <br>
