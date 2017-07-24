@@ -1,7 +1,8 @@
 # Sorting
 
-Demonstrate in a simple and effective manner the benefits of performing
-tasks in parallel.
+The aim of this activity is to demonstrate in a simple and effective manner:
+* the basics of a sorting algorithm and why it is relevant to computing and supercomputing
+* the benefits of performing tasks in parallel and why this is applicable to supercomputing
 
 ## Learning objectives
 
@@ -9,6 +10,11 @@ tasks in parallel.
   time or the same end can be achieved in less time.
    * Modern parallel computers operate on the same principle.
 
+## Pre-requisites
+
+This activity assumes that you have already discussed the basics of a computer and what it is used for. It also assumes that you have given a short explanation of a supercomputer, explaining that this is made up of many many computers connected together. See activities XX and YY for further information on these topics.
+
+## Overview
 
 ## Equipment
 
