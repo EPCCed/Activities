@@ -6,10 +6,14 @@ The aim of this activity is to demonstrate in a simple and effective manner:
 
 ## Learning objectives
 
-* Multiple people sorting will do more than one person in the same
+On completing this activity, participants should have:
+* A basic understanding of one or two methods of sorting and how sorting is used in modern computing and supercomputing
+* An understanding of how supercomputers work in parallel to solve problems
+   * How multiple people sorting will do more than one person in the same
   time or the same end can be achieved in less time.
-   * Modern parallel computers operate on the same principle.
-
+   * How modern parallel computers operate on the same principle.
+   * How bottlenecks and challenges exist that can slow things down.
+   
 ## Pre-requisites
 
 This activity assumes that you have already discussed the basics of a computer and what it is used for. It also assumes that you have given a short explanation of a supercomputer, explaining that this is made up of many many computers connected together. See activities XX and YY for further information on these topics.
