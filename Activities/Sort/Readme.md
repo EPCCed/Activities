@@ -114,6 +114,23 @@ show perfect speedup, this is all worth discussion and has analogies with comput
 
 ## Discussion - sorting
 
+So far you have used sorting to demonstrate how parallelism works, but have not discussed the nature of 
+sorting and its relevance to supercomputers and every day life. When running this activity is is worthwile 
+discussing this.
+
+Good discussion point are:
+
+* Sorting algorithms are used everyday and are all around you. For example, when you shop on-line you 
+can often sort the items by price and relevance.
+* Supercomputers have been used to sort and compare the interactions between genes in the human body. This 
+helps identify gene interactions that may increase the risk of a person developing a particular disease. 
+This can help to provide early treatment and intervention.
+* There are many different types of sorting methods. Some can be run in parallel with different parts of the 
+sort being carried out on different cores. 
+
+If you wish to discuss sorting in more detail or try out different sorting methods, the post sort activity is
+worth considering.
+
 
 ## Other considerations
 
