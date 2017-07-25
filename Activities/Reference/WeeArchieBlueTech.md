@@ -2,26 +2,25 @@ Wee Archie Blue
 ===============
 
 Wee Archie Blue is the second unit developed for demonstration purposes using
-the Raspberry Pi series of single board computers.
+the Raspberry Pi series of single board computers. The blue name comes from the
+use of the blue LEDs.
 
  
-
 Wee Archie Blue Technical Specification:
 ----------------------------------------
 
-### Total Numbers
+### Overview Numbers
 
--   Number of Processors/Cores: 18/72
+-   Number of Processors/Cores: 18/72.
 
--   Core Speed: 1GHZ
+-   Core Speed: 1GHZ.
 
--   RAM: 18 GB (1GB per board)
+-   RAM: 18 GB (1GB per board).
 
--   Storage: 408 GB (16 GB per board plus 120GB network shared)
+-   Storage: 408 GB (16 GB per board plus 120GB network shared).
 
--   Operating System: Raspbian “Jessie"
+-   Operating System: Raspbian “Jessie".
 
- 
 
 ### Components
 
@@ -40,7 +39,7 @@ The power and computation elements are:
 
 -   2 5V 10A PSU
 
--    
+
 
 ### Raspberry Pi 3 Model B Specification
 
@@ -147,3 +146,16 @@ been number 5. And it consumes a lot less power and takes up less space.
 |-----------------|-----------------|--------------------|
 | 1               | 0.63 GFLOPs     | 3.58 GFLOPs        |
 | 16              | 7.1 GFLOPs      | 25.1 GFLOPs        |
+
+<!-- Licensing and copyright stuff below -->
+<br>
+<a href="http://www.epcc.ed.ac.uk">
+<img alt="EPCC logo" src="https://www.epcc.ed.ac.uk/sites/all/themes/epcc/images/epcc-logo.png" height="31"/>
+</a>
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">
+<img alt="Creative Commons License" style="border-width:0" 
+     src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" />
+</a><br />
+This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">
+Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.<br/>
+&copy; Copyright EPCC, The University of Edinburgh 2017.
