@@ -50,7 +50,7 @@ Labels are available to download at: [pdf&nbsp;file](pdf/SortingLabels.pdf)
 
 You can be as sophisticated or as simple as you like. Three examples are given below, ranging in price and sophistication. 
 
-Simple boxes can be used, similar to those found in the stationery cupboard at work:
+Simple boxes can be used, similar to those found in a stationery cupboard at work:
 
 ![Simple boxes](imgs/setup1.png)
 
