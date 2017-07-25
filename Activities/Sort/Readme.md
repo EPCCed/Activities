@@ -40,7 +40,7 @@ set-up would be:
   int the allotted time.
 
 Label each of the coloured object sinks, i.e. boxes, with the colour that
-it is supposed to act as a sink for - you can either print a label or get coloured boxes/trugs that match the
+it is supposed to act as a sink for - you can either print a label or get coloured boxes/bucket that match the
 colour of the objects that you are trying to sort - you could also label these.
 
 Note it is helpful to use labels that are both coloured and have the written name of the colour. This allows for both young children who cannot yet read and also for participants who have colour blindness.
@@ -50,17 +50,17 @@ Labels are available to download at: [pdf&nbsp;file](pdf/SortingLabels.pdf)
 
 You can be as sophisticated or as simple as you like. Three examples are given below, ranging in price and sophistication. 
 
-Simple boxes can be used, similar to those found in the stationary cupboard at work:
+Simple boxes can be used, similar to those found in the stationery cupboard at work:
 
 ![Simple boxes](imgs/setup1.png)
 
-Or a slightly more advanced set of trugs and decorated boxes:
+Or a slightly more advanced set of buckets and decorated boxes:
 
-![Box and trugs](imgs/setup2.png)
+![Box and buckets](imgs/setup2.png)
 
-To a set of trugs and a colourful stand (originally a flower stand) with a set of small pyramid bean bags. 
+To a set of buckets and a colourful stand (originally a flower stand) with a set of small pyramid bean bags. 
 
-![Flower stand with trugs](imgs/flower-stand.png)
+![Flower stand with buckets](imgs/flower-stand.png)
 
 ## Scenario
 
