@@ -1,6 +1,6 @@
 # Reference material
 
-This is reference material to be used for outreach events:
+This is reference material that can be used for outreach events:
 
 * `Audience Profiles` - gives an overview of the different types of audience that we see turning up to outreach events.
 * `Wee Archie Blue` - gives a technical summary of Wee Archie Blue (blue, in this case refers to the colour of the LEDs used).
