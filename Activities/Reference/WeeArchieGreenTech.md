@@ -2,26 +2,24 @@ Wee Archie Green
 ===============
 
 Wee Archie Green was the first unit developed for demonstration purposes using
-the Raspberry Pi series of single board computers.
+the Raspberry Pi series of single board computers. The green refers to the colour
+of the LEDs used.
 
- 
-
-Wee Archie Green Technical Specification:
+Wee Archie Green Technical Specification
 ----------------------------------------
 
-### Total Numbers
+### Overview Numbers
 
--   Number of Processors/Cores: 18/72
+-   Number of Processors/Cores: 18/72.
 
--   Core Speed: 900MHZ
+-   Core Speed: 900MHZ.
 
--   RAM: 18 GB (1GB per board)
+-   Total RAM: 18 GB (1GB per board).
 
--   Storage: 144 GB (8 GB)
+-   Storage: 144 GB (8 GB per board).
 
--   Operating System: Raspbian “Wheezy"
+-   Operating System: [Raspbian “Wheezy"](https://sourceforge.net/projects/raspbian-wheezy-pi/).
 
- 
 
 ### Components
 
@@ -38,7 +36,7 @@ The power and computation elements are:
 
 -   2 5V 10A PSU
 
--    
+  
 
 ### Raspberry Pi 3 Model B Specification
 
@@ -55,9 +53,8 @@ The power and computation elements are:
 -   Ethernet Port
 
  
-Each unit has a 8GB MicroSD card with the operating system installed.
+Each unit has an 8GB MicroSD card with the operating system installed.
 
- 
 
 ### Netgear GS108 Switch
 
@@ -81,14 +78,12 @@ supply.
 
 -   64 Element Dot Matrix Display
 
--   Blue colour
+-   Green colour
 
- 
 
 The LED Matrices are used to give information on the status of a Raspberry Pi,
 including core usage, network traffic and temperature.
 
- 
 
 Wee Archie Green Performance
 ---------------------------
@@ -119,3 +114,17 @@ been number 21. And it consumes a lot less power and takes up less space.
 |-----------------|-----------------|--------------------|
 | 1               | 1.03 GFLOPs     | 1.67 GFLOPs        |
 | 16              | 9.1 GFLOPs      | 12.79 GFLOPs        |
+
+
+<!-- Licensing and copyright stuff below -->
+<br>
+<a href="http://www.epcc.ed.ac.uk">
+<img alt="EPCC logo" src="https://www.epcc.ed.ac.uk/sites/all/themes/epcc/images/epcc-logo.png" height="31"/>
+</a>
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">
+<img alt="Creative Commons License" style="border-width:0" 
+     src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" />
+</a><br />
+This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">
+Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.<br/>
+&copy; Copyright EPCC, The University of Edinburgh 2017.
