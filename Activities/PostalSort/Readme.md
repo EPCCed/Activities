@@ -23,16 +23,17 @@ In the example below the numbers are first separated into three buckets: numbers
 
 ![An example of a bucket sort](imgs/bucket-sort.png)
 
-
 The numbers inside each bucket are then sorted. There are two
 different stages that can thus be parallelised and different strategies
 can be explored to obtain the optimal throughput.
 
 ## Learning objectives
 
-* Multiple people sorting can do more than one person in the same
- amount of time or the same end can be achieved in less time.
-   * Reasoning behind modern computers employing parallelism.
+* Multiple workers sorting can do more than one worker in the same
+ amount of time or the same goal can be achieved in less time.
+   * Recognise parallelism in everyday life.
+* Reasoning behind modern computers employing parallelism.
+   * Generate examples of parallelism in computers.
 * Concepts of hierarchy in data and processing.
    * Multiple algorithms in the same overall process.
    * Recognising exploitable data structures and hierarchy.
