@@ -2,11 +2,8 @@
 
 ## Background
 
-Often data has to be sorted, for ease of access or for the method in which it is being processed, 
-and sometimes the volume of data or how it has to be sorted on a given identifier is time-consuming. 
-For example, sorting stock by a serial code or number could be a time-consuming comparison for each 
-serial code and to do this for the whole volume of data can be inefficient. If the volume of data is 
-large, then perhaps one machine or person cannot do it alone, so we would have mutliple sorters working together. 
+Data often has to be sorted. This may be done to facilitate access or to make access to the data more efficient. However, if the amount of data that has to be sorted, or how it has to be sorted, is very large then this process may end up being very time-consuming and thus expensive.  For example, sorting stock using a serial number could involve a large number of time-consuming comparison of the serial number for each item of stock and to do this for the whole volume of stock can be inefficient. If the amount of data is 
+very large, then perhaps a machine or single person could not do it alone in an acceptable amount of time, so we would have mutliple sorters working together. 
 
 To make large volumes of data in more easily handled volumes of data, we can split it up into chunks and then each sorter can 
 work on a chunk of data, but then we need to have some way to merge them or do lots of communications and swap data between sorters.
