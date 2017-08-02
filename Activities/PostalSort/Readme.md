@@ -3,10 +3,10 @@
 ## Background
 
 Data often has to be sorted. This may be done to facilitate access or to make access to the data more efficient. However, if the amount of data that has to be sorted, or how it has to be sorted, is very large then this process may end up being very time-consuming and thus expensive.  For example, sorting stock using a serial number could involve a large number of time-consuming comparison of the serial number for each item of stock and to do this for the whole volume of stock can be inefficient. If the amount of data is 
-very large, then perhaps a machine or single person could not do it alone in an acceptable amount of time, so we would have mutliple sorters working together. 
+very large, then perhaps a machine or single person could not do it by themselves in an acceptable amount of time. We could try to make things go faster by employing mutliple sorters to work together at the same time. 
 
-To make large volumes of data in more easily handled volumes of data, we can split it up into chunks and then each sorter can 
-work on a chunk of data, but then we need to have some way to merge them or do lots of communications and swap data between sorters.
+To make a large volume of data easier to handle by multiple sorters, we can split the data into smaller chunks. Each sorter can 
+then work on their own smaller data chunk locally. However, at the end of the sorting process we need to combine all the locally sorted data into one globally sorted set which may require lots of communications and swaps of data between the sorters.
 
 To try and make this a little easier, we can use a sorting algorithm called a [bucket
 sort](https://en.wikipedia.org/wiki/Bucket_sort), it is distribution sort related to radix sort but more generalised.
