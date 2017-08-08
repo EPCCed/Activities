@@ -1,106 +1,138 @@
-# Parallel Sums
+Parallel Sums
+=============
 
-## Objectives
+Demonstrate how to do parallel sums in two ways:
 
-* Explore a way of doing sums in parallel
-* Employ:
-   * a master-slave way of solving the problem
-   * a peer-based method without using a master
-* Discuss the pros-cons of each method
+-   a coordinator-worker way of solving the problem
 
-## Learning objectives
+-   a peer-based method
 
-* Benefits of doing a task in parallel
-* Awareness of the overheads that parallelism introduces
-* Two different parallel implementation models that can be used with the pros and cons of each approach
+Learning objectives
+-------------------
 
-## Equipment
+-   Benefits of working in parallel
 
-* List of cards with a number printed on each card, repetitions allowed, make them quite
-  low as they will be have to be added by the participants. Note the total sum.
-* A set of empty cards for people to fill their local summation in. If you laminate and
-  use dry wipe pens you may be able to re-use these - in which case you may also want a set of cloths to wipe the numbers out.
+-   Awareness of overheads introduced by parallelism
 
-## Method
+-   Introduction of two parallel approaches:
 
-### Master-slave model
+    -   Advantages and Disadvantages of parallel approaches
 
-* Give all participants a blank card and a pen.
-* Decide who is going to take on the role of the master. Give them all the 
-   numbered cards.
-* Get the master to shuffle the cards and distribute them evenly amongst the
-  worker nodes. If there are spare cards get the participants to decide on the best
-  way to distribute these, e.g.
-   * If all participants are of the same ability you could distribute the remainder
-     evenly amongst some of the participants, so some will end up with an extra card.
-   * If participants are of different abilities you could give the extra cards to 
-     the person who is best at sums or the oldest.
-   * etc.
-* Each participant will calculate the sum of all the cards they have been assigned
-  and return the sum to the master process once they are finished. The master just has to wait until he receives all the partial sums.
-* Master process sums up the partial sums to calculate
-  the global sum.
-* Check that the global sum agrees with your precalculated value - if not you
-  may have to undergo a debugging phase.
+Equipment
+---------
+
+-   Set of number cards
+
+-   Empty Cards
+
+-   Scrap Paper (if needed)
+
+-   Pens
+
+### Note - Number Cards
+
+Each card should have one number. Numbers do not have to be unique.  Use small
+positive integers as participants will need to sum the numbers. The use of small
+numbers helps enable a wide range of participation. It is important to note the
+total sum of the cards in use.
+
+### Note - Empty Cards
+
+A set of empty cards for the participants to write their local sum on. To reduce
+waste, laminated blank cards and dry-wipe pens will enable re-use of empty
+cards.
+
+Method
+------
+
+### Coordinator-worker model
+
+-   Give all participants a blank card and a pen.
+
+-   Decide who is going to take on the role of the Coordinator and give them the
+    numbered cards.
+
+-   Get the Coordinator to shuffle the cards and distribute them evenly amongst
+    the worker participants. In cases where there are spare cards, get the
+    participants to decide on the best way to distribute these, e.g.
+
+    -   If the participants are all of equal ability, the remainder could be
+        distributed evenly amongst the participants such that some have an extra
+        card.
+
+    -   If the participants are of different abilities, the extra cards could be
+        given to the person who is best at sums.
+
+-   Each participant will calculate the sum of the cards they have been given.
+    They will write this on their blank card and return the card to the
+    Coordinator once they are finished. The Coordinator has to wait until they
+    receive all the partial sums.
+
+-   The Coordinator will add up the partial sums to calculate the global sum.
+
+-   Check the global sum agrees with the precalculated value - if they do not
+    agree you may have to undergo a debugging phase.
 
 #### Discussion points
 
-* Trying to achieve good parallelism means keeping all the processors busy doing
-  useful work. Where do the weaknesses in the above algorithm lie?
+-   Achieving good parallelism involves keeping all processors busy doing useful
+    work. Could there be any weaknesses in this algorithm?
 
 ### Peer-based model
 
-In principle all processes would open and read 
-from the same file - the remainder will have been
-worked out and a strategy chosen before hand, so 
-for this example all participants will start with
-a set of cards. For this example say N is the total number of participants. Each participant will need a piece
-of paper as to do their sums as well as one of the 
-blank cards. Get the participants to stand in 
-a ring then:
+In this approach, there is no coordinator - each worker will calculate the sum
+using information from their peers.
 
-* Each participant will calculate the sum of their
-  cards and write it down on their blank card (and
-  also on the bit of paper they have).
-* Each participant will send their total, which they
-  wrote on one of the blank cards,to the person
-  on their left and receive the partial sum from the
-  person on their right. Get them to keep a count 
-  of the number of times they are passing on a 
-  number. They want to do this N-1 times.
-* Each person will add the partial sum they got on
-  to the total they are keeping on the bit of paper.
-* Each participant will send the partial sum they 
-  received to the next participant on the left and
-  receive a new partial sum from the right (an
-  alternative might be to send the running total
-  along the ring but if someone makes a mistake
-  the error will propagate - this way you are  
-  localising the problem).
-* Repeat this N-1 times.
+In principle all processes would open and read from the same file - the system
+or algorithm will determine what each process reads.
 
-After N-1 communications all participants should 
-have calculated the global sum. Check they have all
-added numbers correctly.
+For this example, all participants will start with a small set of cards taken
+from the full set. This is all participants reading from the same file, but
+reading different bits.
+
+We can say that N is the total number of participants.
+
+Each participant will need one blank card, pen and a piece of paper to do their
+sums.
+
+-   Get the participants to stand in a ring, each with their small set of
+    numbered cards.
+
+-   Each participant will calculate the sum of their cards and write it down on
+    their blank card and their bit of paper.
+
+-   Each participant will pass their total, written on the blank card, to the
+    participant on their left and get a card with a partial sum from the
+    participant on their right. Ask them to record the number of times they pass
+    a number on. They want to do this N-1 times. So far 10 participants, they
+    should pass 9 times.
+
+-   Each participant will add the partial sum they got to the total they wrote
+    on their bit of paper.
+
+-   Each participant will send their partial sum card (without changing it) to
+    the participant on their left and receive a new partial sum from the right.
+
+-   Repeat this N-1 times.
+
+After N-1 communications all participants should have calculated the global sum.
+Check the total is correct.
 
 #### Discussion points
 
-* Compare and contrast this approach with the 
-  master-slave approach. What are the disadvantages of 
-  this approach?
-* Is this the best communications pattern that could
-  be used?
+-   Compare this approach with the coordinator-worker approach. What is better
+    or worse about this peer-based version?
 
-<!-- Licensing and copyright stuff below -->
-<br>
-<a href="http://www.epcc.ed.ac.uk">
-<img alt="EPCC logo" src="https://www.epcc.ed.ac.uk/sites/all/themes/epcc/images/epcc-logo.png" height="31"/>
-</a>
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">
-<img alt="Creative Commons License" style="border-width:0"
-     src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" />
-</a><br />
-This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">
-Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.<br/>
-&copy; Copyright EPCC, The University of Edinburgh 2017.
+-   Is this the best communications pattern that could be used?
 
+-   An alternative might be to send the running total along the ring? Could this
+    introduce problems in the process? Hint - if someone makes a mistake the
+    error will propagate - sending partial sums without changing their value
+    localises the problem. One process may get it wrong, but other processes
+    should still get the correct answer.
+
+  
+  
+This work is licensed under a  Creative Commons
+Attribution-NonCommercial-ShareAlike 4.0 International License.  
+© Copyright EPCC, The University of Edinburgh 2017.
