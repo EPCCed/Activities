@@ -2,9 +2,8 @@
 
 ## Objectives
 
-* Examine a way of counting words from documents in parallel
-* Employ a:
-   * Version of MapReduce
+* Introduce Big Data 
+* Employ a version of MapReduce of counting words from documents in parallel
 * Discuss the pros-cons
 * Discuss Applications of the MapReduce Approach
 
