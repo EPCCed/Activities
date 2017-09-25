@@ -81,6 +81,19 @@ stand) with a set of small pyramid bean bags.
 
 ![Flower stand with buckets](imgs/flower-stand.png)
 
+Graph paper for use with the ball sort can be generated via:
+https://www.blocklayer.com/graph-paper.aspx some sample blank paper
+with ~5mm spacing which should be useable with the the small sticky
+circles can be generated using the options given by the image below. 
+
+![A3 Options](imgs/a3_options.png)
+
+An A3 graph for use with 100 balls and up to 7 people participating
+can be found [here](pdf/ballsort-graph-paper.pdf). It should be
+possible to tweak the text sizes, numbers etc easily enough using
+any pdf editor. Apple Preview was used to annotate the pdf linked
+here.
+
 ## Scenario
 
 To run this activity place the coloured object source and place the
