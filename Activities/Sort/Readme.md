@@ -16,7 +16,10 @@ On completing this activity, participants should have:
    
 ## Pre-requisites
 
-This activity assumes that you have already discussed the basics of a computer and what it is used for. It also assumes that you have given a short explanation of a supercomputer, explaining that this is made up of many many computers connected together. See activities XX and YY for further information on these topics.
+This activity assumes that you have already discussed the basics
+of a computer and what it is used for. It also assumes that you
+have given a short explanation of a supercomputer, explaining that
+this is made up of many many computers connected together.
 
 ## Overview
 
