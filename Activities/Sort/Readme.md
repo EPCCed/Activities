@@ -7,10 +7,11 @@ The aim of this activity is to demonstrate in a simple and effective manner:
 ## Learning objectives
 
 On completing this activity, participants should have:
-* A basic understanding of one or two methods of sorting and how sorting is used in modern computing and supercomputing.
+* A basic understanding of one or two methods of sorting and how sorting is used in modern computing 
+  and supercomputing.
 * An understanding of how supercomputers work in parallel to solve problems.
    * How multiple people sorting will do more than one person in the same
-  time or the same end can be achieved in less time.
+     time or the same end can be achieved in less time.
    * How modern parallel computers operate on the same principle.
    * How bottlenecks and challenges exist that can slow things down.
    
@@ -23,11 +24,19 @@ this is made up of many many computers connected together.
 
 ## Overview
 
-The purpose of this activity is to sort a set of coloured balls into their different colours, either measuring the time it takes to sort a fixed number of balls or measuring the number of balls that can be sorted in a fixed amount of time.
+The purpose of this activity is to sort a set of coloured balls
+into their different colours, either measuring the time it takes
+to sort a fixed number of balls or measuring the number of balls
+that can be sorted in a fixed amount of time.
 
-Once one person has carried out the sort, the sort is repeated with two people, then with more people again. Each time the time and/or number of balls is recorded.
+Once one person has carried out the sort, the sort is repeated with
+two people, then with more people again. Each time the time and/or
+number of balls is recorded.
 
-At the end of the activity you should be able to see that by adding more people you have been able to sort the same number of balls more quickly, or have been able to sort more balls within the same fixed period of time.
+At the end of the activity you should be able to see that by adding
+more people you have been able to sort the same number of balls
+more quickly, or have been able to sort more balls within the same
+fixed period of time.
 
 ## Equipment
 
@@ -40,20 +49,26 @@ set-up would be:
 * As many smaller boxes as there are colours - these are the sorting sinks.
 * A timer (digital or analogue) that can count down 30s or 1min.
 * A sheet of A3 with a pen sticky dots to note the number of objects sorted
-  int the allotted time.
+  in the allotted time.
 
-Label each of the coloured object sinks, i.e. boxes, with the colour that
-it is supposed to act as a sink for - you can either print a label or get coloured boxes/bucket that match the
-colour of the objects that you are trying to sort - you could also label these.
+Label each of the coloured object sinks, i.e. boxes, with the colour
+that it is supposed to act as a sink for - you can either print a
+label or get coloured boxes/bucket that match the colour of the
+objects that you are trying to sort - you could also label these.
 
-Note it is helpful to use labels that are both coloured and have the written name of the colour. This allows for both young children who cannot yet read and also for participants who have colour blindness.
+Note it is helpful to use labels that are both coloured and have
+the written name of the colour. This allows for both young children
+who cannot yet read and also for participants who have colour
+blindness.
 
 Labels are available to download at: [pdf&nbsp;file](pdf/SortingLabels.pdf) 
 
 
-You can be as sophisticated or as simple as you like. Three examples are given below, ranging in price and sophistication. 
+You can be as sophisticated or as simple as you like. Three examples
+are given below, ranging in price and sophistication.
 
-Simple boxes can be used, similar to those found in a stationery cupboard at work:
+Simple boxes can be used, similar to those found in a stationery
+cupboard at work:
 
 ![Simple boxes](imgs/setup1.png)
 
@@ -61,7 +76,8 @@ Or a slightly more advanced set of buckets and decorated boxes:
 
 ![Box and buckets](imgs/setup2.png)
 
-To a set of buckets and a colourful stand (originally a flower stand) with a set of small pyramid bean bags. 
+To a set of buckets and a colourful stand (originally a flower
+stand) with a set of small pyramid bean bags.
 
 ![Flower stand with buckets](imgs/flower-stand.png)
 
