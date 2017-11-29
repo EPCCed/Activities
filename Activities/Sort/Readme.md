@@ -1,12 +1,14 @@
 # Sorting
 
 The aim of this activity is to demonstrate in a simple and effective manner:
+
 * the basics of a sorting algorithm and why it is relevant to computing and supercomputing.
 * the benefits of performing tasks in parallel and why this is applicable to supercomputing.
 
 ## Learning objectives
 
 On completing this activity, participants should have:
+
 * A basic understanding of one or two methods of sorting and how sorting is used in modern computing 
   and supercomputing.
 * An understanding of how supercomputers work in parallel to solve problems.
