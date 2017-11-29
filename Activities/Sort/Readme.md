@@ -72,7 +72,7 @@ the written name of the colour. This allows for both young children
 who cannot yet read and also for participants who have colour
 blindness.
 
-Labels are available to download at: [pdf&nbsp;file](pdf/SortingLabels.pdf) 
+Labels are available to download at: [pdf&nbsp;file](https://github.com/EPCCed/Activities/blob/master/Activities/Sort/pdf/SortingLabels.pdf). 
 
 
 You can be as sophisticated or as simple as you like. Three examples
@@ -100,7 +100,7 @@ circles can be generated using the options given by the image below.
 ![A3 Options](imgs/a3_options.png)
 
 An A3 graph for use with 100 balls and up to 7 people participating
-can be found [here](pdf/ballsort-graph-paper.pdf). It should be
+can be found [here](https://github.com/EPCCed/Activities/blob/master/Activities/Sort/pdf/ballsort-graph-paper.pdf). It should be
 possible to tweak the text sizes, numbers etc easily enough using
 any pdf editor. Apple Preview was used to annotate the pdf linked
 here.
