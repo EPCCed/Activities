@@ -31,10 +31,7 @@ like  a sciecne festival.
 Using positive integers will allow a wider audience to participate in
 this activity.
 
-The numbers do not need to form a continuous sequence.  A small
-example set could be:
-
-1,4,6,10,14,17,18,20,43,47,65,99,102,143,201,546
+The numbers do not need to form a continuous sequence.
 
 Ensure that there is a larger supply of cards that you anticipate
 using in each activity run.  This will allow you to work with large
