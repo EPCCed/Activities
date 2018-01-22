@@ -1,6 +1,6 @@
 # Sorting
 
-**Version: 1.0**
+**Version: 1.0.1**
 
 For the latest version of this document please see:
 
@@ -10,9 +10,15 @@ For the latest version of this document please see:
 The aim of this activity is to demonstrate in a simple and effective manner:
 
 * The basics of a sorting algorithm and why it is relevant to
-  computing and supercomputing.
+  computing.
 * The benefits of performing tasks in parallel and why this is
   applicable to supercomputing.
+
+This activity is suitable for all type of environments - it could be used
+in a classroom where concepts can be leisurely discussed or in a high 
+throughput environment, like a science festival, where you may have a 
+large number of attendees wishing to participate and not much time to
+dedicate to each of them.
 
 ## Learning objectives
 
@@ -94,7 +100,7 @@ stand) with a set of small pyramid bean bags.
 
 Graph paper for use with the ball sort can be generated via:
 https://www.blocklayer.com/graph-paper.aspx some sample blank paper
-with ~5mm spacing which should be useable with the the small sticky
+with ~5mm spacing which should be usable with the the small sticky
 circles can be generated using the options given by the image below. 
 
 ![A3 Options](imgs/a3_options.png)
@@ -146,50 +152,60 @@ can do in the same time.
 You will also likely note that, as the number of people increases, the number
 of objects sorted does not increase linearly. Ask them why this is.
 Usually there is contention getting to the coloured objects or
-getting access to the source container. You can draw anologies with
+getting access to the source container. You can draw analogies with
 what happens in computers - memory contention, etc. You can also
 introduce the idea of [speedup](https://en.wikipedia.org/wiki/Speedup).
 
 Bear in mind that in most cases you will not be dealing with a
-homogenous system, e.g. a 5-year old child setting the baseline and
-then performing the same task with their parent. Hence don't be surprised if the results don't 
-show perfect speedup, this is all worth discussion and has analogies with computers and supercomputers.
+homogeneous system, e.g. a 5-year old child setting the baseline and
+then performing the same task with their parent. Hence don't be
+surprised if the results don't show perfect speedup, this is all worth
+discussion and has analogies with computers and supercomputers.
 
 ## Discussion - sorting
 
-So far you have used sorting to demonstrate how parallelism works, but have not discussed the nature of 
-sorting and its relevance to supercomputers and every day life. When running this activity is is worthwile 
-discussing this.
+So far you have used sorting to demonstrate how parallelism works, but
+have not discussed the nature of sorting and its relevance to
+supercomputers and every day life. When running this activity it is
+worthwhile discussing this.
 
 Good discussion point are:
 
-* Sorting algorithms are used everyday and are all around you. For example, when you shop on-line you 
-can often sort the items by price and relevance.
-* Supercomputers have been used to sort and compare the interactions between genes in the human body. This 
-helps identify gene interactions that may increase the risk of a person developing a particular disease. 
-This can help to provide early treatment and intervention.
-* There are many different types of sorting methods. Some can be run in parallel with different parts of the 
-sort being carried out on different cores. 
+* Sorting algorithms are used everyday and are all around you. For
+example, when you shop on-line you can often sort the items by price
+and relevance.
+* Supercomputers have been used to sort and compare the interactions
+between genes in the human body. This helps identify gene interactions
+that may increase the risk of a person developing a particular
+disease.  This can help to provide early treatment and intervention.
+* There are many different types of sorting methods. Some can be run
+in parallel with different parts of the sort being carried out on
+different cores.
 
-If you wish to discuss sorting in more detail or try out different sorting methods, the post sort activity is
-worth considering.
+If you wish to discuss sorting in more detail or try out different
+sorting methods, the post sort activity is worth considering.
 
 
 ## Other considerations
 
-Depending on the enthusiasm of your participants, the action at the source container can get a little bit frenetic so make
-sure that there are no sharp edges or hard bits that could cause damage to young hands. 
+Depending on the enthusiasm of your participants, the action at the
+source container can get a little bit frenetic so make sure that there
+are no sharp edges or hard bits that could cause damage to young
+hands.
 
-Try to get as many people involved in the process, so while one person is sorting another can be the time keeper.
+Try to get as many people involved in the process, so while one person
+is sorting another can be the time keeper.
 
-The example above sorts as many balls as you can in a fixed period of time. This is beneficial at 
-e.g. a science festival when you want to place a limit on the time each person interacts with an activity,
-to give others an opportunity to participate. However you can also sort a fixed number of balls and measure 
-the time this takes with different numbers of people.
+The example above sorts as many balls as you can in a fixed period of
+time. This is beneficial at e.g. a science festival when you want to
+place a limit on the time each person interacts with an activity, to
+give others an opportunity to participate. However you can also sort a
+fixed number of balls and measure the time this takes with different
+numbers of people.
 
 ## Resources
 
-* Labels for the boxes and trugs are available to download at: [pdf&nbsp;file](pdf/SortingLabels.pdf).
+* Labels for the boxes and trugs are available to download at: [pdf&nbsp;file](https://github.com/EPCCed/Activities/blob/master/Activities/Sort/pdf/SortingLabels.pdf).
 * "How do you use a Supercomputer" flyer. This is a good piece of supporting material for this 
 activity, providing a simple overview of sorting and parallel sorting. See: https://www.epcc.ed.ac.uk/sites/default/files/PDF/How_do_you_use_a_supercomputer.pdf
 
