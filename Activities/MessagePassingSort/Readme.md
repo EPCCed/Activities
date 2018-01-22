@@ -1,6 +1,21 @@
 # Message passage sorting
 
-Demonstrate a parallel sorting algorithm for a list of numbers.
+**Version: 1.0**
+
+For the latest version of this document please see:
+
+* https://github.com/EPCCed/Activities/tree/master/Activities/MessagePassingSort
+
+The aim of this activity is to demonstrate in a simple and effective
+manner:
+
+* Demonstrate a parallel sorting algorithm for a list of numbers using
+  message passing techniques.
+
+This activity is suitable for a classroom or workshop environment. It
+will require a level of coordination by the facilitator leading the 
+activity and is thus not suitable for a high throughput environment 
+like  a sciecne festival.
 
 ## Learning objectives
 
@@ -13,18 +28,22 @@ Demonstrate a parallel sorting algorithm for a list of numbers.
 
 ### Note
 
-Using positive integers will allow a wider audience to participate in this activity.
+Using positive integers will allow a wider audience to participate in
+this activity.
 
-The numbers do not need to form a continuous sequence.  A small example set could be:
+The numbers do not need to form a continuous sequence.  A small
+example set could be:
 
 1,4,6,10,14,17,18,20,43,47,65,99,102,143,201,546
 
-Ensure that there is a larger supply of cards that you anticipate using in each activity run.
-This will allow you to work with large participant numbers and replace any damaged or lost cards.
+Ensure that there is a larger supply of cards that you anticipate
+using in each activity run.  This will allow you to work with large
+participant numbers and replace any damaged or lost cards.
 
 ## Overview
 
-The participant numbers for this activity are restricted by space, equipment and the activity organiser.
+The participant numbers for this activity are restricted by space,
+equipment and the activity organiser.
 
 Remember the more cards or participants you have the longer it will take.
 
@@ -35,8 +54,9 @@ Age: 7+
 
 ### Note
 
-This activity can be confusing - it requires the organiser to keep track and
-help out where things go awry. The important thing is do not panic - this is normal.
+This activity can be confusing - it requires the organiser to keep
+track and help out where things go awry. The important thing is do not
+panic - this is normal.
 
 
 ## Procedure
@@ -46,10 +66,11 @@ The activity can be extended to larger numbers of people and cards.
 
 ### Set-Up
 
-Number the participants starting from 0 to P-1, where P is the total number
-of participants. 
+Number the participants starting from 0 to P-1, where P is the total
+number of participants.
 
-Ensure each participant know their number and whether it is an even or odd number.
+Ensure each participant know their number and whether it is an even or
+odd number.
 
 For the three participants, they will be numbered 0,1,2.
 
@@ -96,9 +117,11 @@ If the even numbered participant has the lower number then swap numbers.
 
 ### What is the terminating condition? 
 
-As the organiser has a global view, they can see when the list is completely sorted. 
+As the organiser has a global view, they can see when the list is
+completely sorted.
 
-How do the participants to recognise the entire list has been sorted when they are only know about their own numbers?
+How do the participants to recognise the entire list has been sorted
+when they are only know about their own numbers?
 
 ## Discussion
 
