@@ -1,6 +1,7 @@
 # Converting markdown to pdf
 
-Sonme notes on how to conver the markdwon source to pdf based on this 
+Thee are some notes on how to conver the markdown sources to pdf in this
+repository based on this 
 [gist](https://gist.github.com/justincbagley/ec0a6334cc86e854715e459349ab1446).
 I think `grip` seems to give the best output.
 
