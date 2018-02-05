@@ -18,14 +18,21 @@ which require cash to repair.
 
 ## Objectives
 
-* Keep the computer centre running for as long as possible.
+* Keep your job as long as possible.
+* Be a national HPC centre
 * Upgrade and/or buy more hardware to run more jobs or jobs that have
   larger requirements.
+* Process more FLOPS
+* The full game balances money with the machine more fully. In terms of you have power bills & if you go into debt the lights go out and you loose. You can borrow money & the interest rate changes too. Also the full game explores aspects such as cooling (lower running cost) and interconnect (increases PE.) The bank is also an aspect of this, where you can see transactions and their impact on your balance.
+* The festival version is much sharper and shorter, just focusing in on the money you make from jobs and you only "loose" when the time runs out. I.e. it is how many FLOPs you can get in 90 seconds and that's it. Money here drives the machine you can buy which = more FLOPS. Whereas in full game this also ends the game so adds an extra dimension.
 
 ## Learning objectives
 
 * Become aware that better hardware allows you to tackle existing jobs
   faster or bigger jobs.
+* It costs money to run these machines and that is an important aspect to balance
+* We use these for a variety of scientific jobs
+* Not just the power of the hardware (although that is important) but also aspects such as cooling & interconnect.
 
 ## Equipment
 
@@ -38,11 +45,13 @@ The game initially requires a little bit of explanation but once
 the basics have been gone over the game is relatively self evident. More
 nodes allows the throughput of jobs to increase, more powerful hardware
 allows bigger jobs to be run that generate more income. A leaderboard
-allows individuals to add their name to the top scores.
+allows individuals to add their name to the top scores. The walk-through on the festival mode is much better, but full interactive help is provided and an advisor is present to assist.
 
 ## Discussion points
 
 * What is the best strategy?
+* What jobs interest you the most?
+* What sort of hardware is most suited?
 
 <!-- Licensing and copyright stuff below -->
 <br>
