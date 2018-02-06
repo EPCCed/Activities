@@ -6,13 +6,15 @@ For the latest version of this document please see:
 
 * https://github.com/EPCCed/Activities/tree/master/Activities/ParallelSums
 
+## Aim
+
 Demonstrate how to do sums in parallel in two ways:
 
 -   a coordinator-worker way of solving the problem
 
 -   a peer-based method
 
-This Activity will be most suitable for a classroom/workshop environment.
+This activity is most suitable for a classroom/workshop environment.
 
 ## Learning objectives
 
