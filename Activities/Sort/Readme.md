@@ -1,7 +1,7 @@
 <!-- Begin Header -->
 <table width="100%" border="0"?
 <tr>
-<img src="../../imgs/EPCC_logo.gif" alt="EPCC logo">
+<img src="../../imgs/EPCC_logo.png" alt="EPCC logo">
 <td>
 </td>
 <td>
