@@ -16,7 +16,7 @@
 
 # Sorting
 
-**Version: 1.0.1**
+**Version: 1.0.2**
 
 For the latest version of this document please see:
 
@@ -26,9 +26,9 @@ For the latest version of this document please see:
 The aim of this activity is to demonstrate in a simple and effective manner:
 
 * The basics of a sorting algorithm and why it is relevant to
-  computing.
+  computing
 * The benefits of performing tasks in parallel and why this is
-  applicable to supercomputing.
+  applicable to supercomputing
 
 This activity is suitable for all type of environments - it could be used
 in a classroom where concepts can be leisurely discussed or in a high 
