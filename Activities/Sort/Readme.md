@@ -1,13 +1,13 @@
 <!-- Begin Header -->
 <table width="100%" border="0">
 <tr>
-<td>
+<td markdown="span">
 <img src="https://github.com/EPCCed/Activities/blob/master/imgs/EPCC_logo.png" alt="EPCC logo">
 </td>
-<td>
+<td markdown="span">
 <img src="https://github.com/EPCCed/Activities/blob/master/imgs/UoE_logo.png" alt="University of Edinburgh logo">
 </td>
-<td>
+<td markdown="span">
 <img src="https://github.com/EPCCed/Activities/blob/master/imgs/archer.png" alt="ARCHER logo">
 </td>
 </tr>
