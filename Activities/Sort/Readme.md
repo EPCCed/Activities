@@ -1,8 +1,8 @@
 <!-- Begin Header -->
 <table width="100%" border="0"?
 <tr>
-<img src="../../imgs/EPCC_logo.png" alt="EPCC logo">
 <td>
+<img src="../../imgs/EPCC_logo.png" alt="EPCC logo">
 </td>
 <td>
 <img src="../../imgs/UoE_logo.png" alt="University of Edinburgh logo">
