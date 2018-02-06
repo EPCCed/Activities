@@ -1,5 +1,5 @@
 <!-- Begin Header -->
-<table width="100%" border="0">
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
 <tr>
 <td markdown="span">
 <img src="https://github.com/EPCCed/Activities/blob/master/imgs/EPCC_logo.png" alt="EPCC logo">
