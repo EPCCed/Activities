@@ -6,6 +6,8 @@ For the latest version of this document please see:
 
 * https://github.com/EPCCed/Activities/tree/master/Activities/MessagePassingSort
 
+## Aim
+
 The aim of this activity is to demonstrate in a simple and effective
 manner:
 
@@ -15,7 +17,7 @@ manner:
 This activity is suitable for a classroom or workshop environment. It
 will require a level of coordination by the facilitator leading the 
 activity and is thus not suitable for a high throughput environment 
-like  a sciecne festival.
+like  a science festival.
 
 ## Learning objectives
 
@@ -24,7 +26,7 @@ like  a sciecne festival.
 
 ## Equipment
 
-* Set of Cards with Integers clearly printed on them.
+* Set of cards with Integers clearly printed on them.
 
 ### Note
 
@@ -67,7 +69,8 @@ Number the participants starting from 0 to P-1, where P is the total
 number of participants.
 
 Ensure each participant know their number and whether it is an even or
-odd number.
+odd number (if you think that they will require some assistance to determine 
+this you could provide some stickers indicating whether even or odd).
 
 For the three participants, they will be numbered 0,1,2.
 
@@ -100,7 +103,7 @@ If the odd numbered participant has the lower number then swap numbers.
 4. Participants who received a new number should sort their numbers.
    
 ![Second local sort](imgs/MessagePassing4.png)
-5. Even numbered participants shoudl compare their lowest number with the highest number of their lowest odd numbered neighbour. 
+5. Even numbered participants should compare their lowest number with the highest number of their lowest odd numbered neighbour. 
 In this example 2 will compare with 1 and 0 will be idle.
 If the even numbered participant has the lower number then swap numbers.
 
