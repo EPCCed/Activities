@@ -1,5 +1,5 @@
 <!-- Begin Header -->
-<table width="100%" border="0"?
+<table width="100%" border="0">
 <tr>
 <td>
 <img src="../../imgs/EPCC_logo.png" alt="EPCC logo">
