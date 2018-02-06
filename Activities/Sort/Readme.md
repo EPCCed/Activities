@@ -2,13 +2,13 @@
 <table width="100%" border="0">
 <tr>
 <td>
-<img src="../../imgs/EPCC_logo.png" alt="EPCC logo">
+<img src="https://github.com/EPCCed/Activities/blob/master/imgs/EPCC_logo.png" alt="EPCC logo">
 </td>
 <td>
-<img src="../../imgs/UoE_logo.png" alt="University of Edinburgh logo">
+<img src="https://github.com/EPCCed/Activities/blob/master/imgs/UoE_logo.png" alt="University of Edinburgh logo">
 </td>
 <td>
-<img src="../../imgs/archer.png" alt="ARCHER logo">
+<img src="https://github.com/EPCCed/Activities/blob/master/imgs/archer.png" alt="ARCHER logo">
 </td>
 </tr>
 </table>
