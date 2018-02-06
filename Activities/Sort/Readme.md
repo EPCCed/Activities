@@ -22,6 +22,7 @@ For the latest version of this document please see:
 
 * https://github.com/EPCCed/Activities/tree/master/Activities/Sort
  
+## Aim
 
 The aim of this activity is to demonstrate in a simple and effective manner:
 
