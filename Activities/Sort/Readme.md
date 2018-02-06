@@ -1,3 +1,19 @@
+<!-- Begin Header -->
+<table width="100%" border="0"?
+<tr>
+<img src="../../imgs/EPCC_logo.gif" alt="EPCC logo">
+<td>
+</td>
+<td>
+<img src="../../imgs/UoE_logo.png" alt="University of Edinburgh logo">
+</td>
+<td>
+<img src="../../imgs/archer.png" alt="ARCHER logo">
+</td>
+</tr>
+</table>
+<!-- End Header -->
+
 # Sorting
 
 **Version: 1.0.1**
