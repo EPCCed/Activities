@@ -78,7 +78,8 @@ The equipment required for this activity is relatively simple
 and can go as far as your budget will stretch. The minimum
 set-up would be:
 
-* A set of coloured objects to sort, e.g. balls, bean bags, etc.
+* A set of coloured objects to sort, e.g. balls, bean bags, scrunched up pieces 
+  of coloured paper, etc.
 * A box or bag to contain the coloured objects. This is the sorting source.
 * As many smaller boxes as there are colours - these are the sorting sinks.
 * A timer (digital or analogue) that can count down 30s or 1min.
