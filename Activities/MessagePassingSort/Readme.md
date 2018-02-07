@@ -16,7 +16,7 @@
 
 # Message passage sorting
 
-**Version: 1.0**
+**Version: 1.0.1**
 
 For the latest version of this document please see:
 
