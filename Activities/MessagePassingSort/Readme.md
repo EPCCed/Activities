@@ -44,6 +44,10 @@ like  a science festival.
 
 * Set of cards with Integers clearly printed on them.
 
+![Early version of the message passing sort](imgs/BSF12.png)
+
+An early version of the Message Passing Sort being tried out at the British Science Festival held in Aberdeen in 2012. The arrow is being used to indicate in which direction the sorts should be taking place in.
+
 ### Note
 
 Using positive integers will allow a wider audience to participate in
