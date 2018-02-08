@@ -221,6 +221,13 @@ give others an opportunity to participate. However you can also sort a
 fixed number of balls and measure the time this takes with different
 numbers of people.
 
+## Want to know more?
+
+If you want to know more about EPCC Outreach activities visit:
+
+* https://www.epcc.ed.ac.uk/discover-and-learn
+
+
 ## Resources
 
 * Labels for the boxes and trugs are available to download at: [pdf&nbsp;file](https://github.com/EPCCed/Activities/blob/master/Activities/Sort/pdf/SortingLabels.pdf).

@@ -69,6 +69,13 @@ allows individuals to add their name to the top scores. The walk-through on the 
 * What jobs interest you the most?
 * What sort of hardware is most suited?
 
+## Want to know more?
+
+If you want to know more about EPCC Outreach activities visit:
+
+* https://www.epcc.ed.ac.uk/discover-and-learn
+
+
 <!-- Licensing and copyright stuff below -->
 <br>
 <a href="http://www.epcc.ed.ac.uk">

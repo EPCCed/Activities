@@ -153,6 +153,13 @@ when they are only know about their own numbers?
 
 **Question**: Can the participants develop a different approach?
 
+## Want to know more?
+
+If you want to know more about EPCC Outreach activities visit:
+
+* https://www.epcc.ed.ac.uk/discover-and-learn
+
+
 ## Acknowledgements
 
 * Male silhouette came from the [man shape](https://openclipart.org/detail/182185/man-shape) at openclipart.

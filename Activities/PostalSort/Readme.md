@@ -218,6 +218,13 @@ allocated to do the sorting?
 **Question**: How could you make this more efficient? (consider placement
 of boxes, overlapping steps etc.)
 
+## Want to know more?
+
+If you want to know more about EPCC Outreach activities visit:
+
+* https://www.epcc.ed.ac.uk/discover-and-learn
+
+
 
 <!-- Licensing and copyright stuff below -->
 <a href="http://www.epcc.ed.ac.uk">
