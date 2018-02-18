@@ -57,3 +57,7 @@ markdown-pdf -f "A4" -o outputfilename.pdf Readme.md
 ```
 
 However it produces a fairly plain output.
+
+## Other alternatives
+
+* For mac users shift-Command-R on Safari will open the markdown in Reader. One can print from there.
