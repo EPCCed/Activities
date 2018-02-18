@@ -3,7 +3,7 @@
 Thee are some notes on how to conver the markdown sources to pdf in this
 repository based on this 
 [gist](https://gist.github.com/justincbagley/ec0a6334cc86e854715e459349ab1446).
-I think `grip` seems to give the best output.
+I think `grip` seems to give the best output. Have only used these on a mac though. Please feel free to update for other platforms.
 
 ## pandoc
 
@@ -57,3 +57,7 @@ markdown-pdf -f "A4" -o outputfilename.pdf Readme.md
 ```
 
 However it produces a fairly plain output.
+
+## Other alternatives
+
+* For mac users shift-Command-R on Safari will open the markdown in Reader. One can print from there.
