@@ -111,7 +111,7 @@ call depending on your confidence and your audience.
      numbered item otherwise markdown will start
      renumbering from 1! -->
      
-1. Get the participants to stand in a line, shuffle the numbered cards and give
+1. Get the participants to stand in a line in the order of the participant numbers. Shuffle the numbered cards and give
    each participant 4 cards:
 
 ![Starting configuration](imgs/MessagePassing1.png)
@@ -121,7 +121,7 @@ call depending on your confidence and your audience.
 3. Even numbered participants compare their highest valued card number with
 the lowest card number of their highest odd numbered neighbour.  In this
 example, participant 0 will compare with participant 1 while participant 2 will be idle.  If the odd
-numbered participant has the lower number then swap numbers.
+numbered participant has the lower number then swap numbers. Note that participants at the edge of the line, numbers 0 and P-1, do not interact with each other.
 	     
 ![First message passing](imgs/MessagePassing3.png)
 4. Participants who received a new number should resort their cards.
@@ -163,7 +163,6 @@ when they are only know about their own numbers?
 If you want to know more about EPCC Outreach activities visit:
 
 * https://www.epcc.ed.ac.uk/discover-and-learn
-
 
 ## Acknowledgements
 
