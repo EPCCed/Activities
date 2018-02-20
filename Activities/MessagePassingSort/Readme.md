@@ -16,7 +16,7 @@
 
 # Message passage sorting
 
-**Version: 1.1**
+**Version: 1.1.1**
 
 For the latest version of this document please see:
 
@@ -102,7 +102,7 @@ or odd).
 
 For this example we assume that we have three participants, they will thus be numbered 0,1,2.Include the number zero in the even group to make this activity easier to explain. You could use 1 to P to number the participants but this activity starts at 0 which aligns with a lot of
 programming languages and the [Message Passing Interface](http://mpi-forum.org/) (MPI) library
-commonly used to implement this algorithm type.  If you are familiar with MPI we are assiging the participants ranks. This is a judgement
+commonly used to implement this algorithm type.  If you are familiar with MPI we are assigning the participants ranks. This is a judgement
 call depending on your confidence and your audience.
 
 ### Process
