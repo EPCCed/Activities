@@ -2,15 +2,15 @@
 
 Each directory contains a description and the materials required to run each activity. We have:
 
-* `Sort` - an embarrassingly parallel demonstration of the benefits of parallelism.
-* `ParallelSums` - calculating the sum of a list of numbers using a master-slave paradigm and a peerless one.
-* `MessagePassingSort` - sorting a distributed list of numbers. This requires some explanation so not ideally
-   suited to a high throughput environment.
+* [Sort](Sort/Readme.md] - an embarrassingly parallel demonstration of the benefits of parallelism.
+* [ParallelSums](ParallelSums/Readme.md) - calculating the sum of a list of numbers using a master-slave paradigm and a peerless one.
+* [MessagePassingSort](MessagePassingSort/Readme.md) - sorting a distributed list of numbers. This requires some explanation 
+   so not ideally suited to a high throughput environment.
 
 ### In progress
 
-* `ParallelWordCount` - a parallel word count activity modelled on MapReduce.
-* `PostalSort` - another embarrassingly parallel sort but slightly more complicated than the `Sort` activity.
+* [ParallelWordCount](ParallelWordCount/Readme.md) - a parallel word count activity modelled on MapReduce.
+* [PostalSort](PostalSort/Readme.md) - another embarrassingly parallel sort but slightly more complicated than the `Sort` activity.
 * `Reference` - reference materials providing background that may be used at an outreach event.
 * `SuperComputingChallenge` - a webapp that can be used at events.
  
