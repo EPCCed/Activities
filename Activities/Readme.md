@@ -2,7 +2,7 @@
 
 Each directory contains a description and the materials required to run each activity. We have:
 
-* [Sort](Sort/Readme.md] - an embarrassingly parallel demonstration of the benefits of parallelism.
+* [Sort](Sort/Readme.md) - an embarrassingly parallel demonstration of the benefits of parallelism.
 * [ParallelSums](ParallelSums/Readme.md) - calculating the sum of a list of numbers using a master-slave paradigm and a peerless one.
 * [MessagePassingSort](MessagePassingSort/Readme.md) - sorting a distributed list of numbers. This requires some explanation 
    so not ideally suited to a high throughput environment.
