@@ -1,4 +1,4 @@
-# Information about Wee Archie
+# Information about Wee Archie and Wee Archlet
 
 Wee Archie is a model super computer we can take to events consisting of
 networked Raspberry Pis. There are two models - a blue and green. The 
