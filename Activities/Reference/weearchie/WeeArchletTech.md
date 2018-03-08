@@ -1,14 +1,12 @@
-Wee Archlet
-===========
+# Wee Archlet
 
-Wee Archlet is the home-build cluster setup developed for demonstration purposes using
-the Raspberry Pi series of single board computers.
+Wee Archlet is the home-build cluster setup developed for demonstration
+purposes using the Raspberry Pi series of single board computers.
 
-Instructions on equipment and setup are available at (https://epcced.github.io/wee_archlet/)
- 
+Instructions on equipment and setup are available at
+(https://epcced.github.io/wee_archlet/).
 
-Wee Archlet Technical Specification:
-----------------------------------------
+## Wee Archlet Technical Specification
 
 ### Total Numbers
 
@@ -21,8 +19,6 @@ Wee Archlet Technical Specification:
 -   Storage: 80 GB (16 GB per board)
 
 -   Operating System: Raspbian “Jessie"
-
- 
 
 ### Components
 
@@ -51,14 +47,11 @@ The power and computation elements are:
 
 -   Ethernet Port
 
- 
-
-The Raspberry Pi 3 units in Wee Archlet has been under clocked to 1GHz after
-testing against applications including using OpenBLAS proved this to give stable
-performance without power or heating issues in the cases. Each unit has a 16GB
-MicroSD card with the operating system installed.
-
- 
+The Raspberry Pi 3 units in Wee Archlet has been under clocked to
+1GHz after testing against applications including using OpenBLAS
+proved this to give stable performance without power or heating
+issues in the cases. Each unit has a 16GB MicroSD card with the
+operating system installed.
 
 ### Netgear GS108 Switch
 
@@ -68,7 +61,6 @@ MicroSD card with the operating system installed.
 
 -   Max Power Consumption: 4.9W
 
- 
 The switches used in Wee Archlet are off-the-shelf Netgear units. The
 Raspberry Pi network communications are well within the tolerances of the
 switches and the power consumption is low. The switch has a 5V power

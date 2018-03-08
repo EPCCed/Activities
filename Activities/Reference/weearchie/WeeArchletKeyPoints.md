@@ -1,7 +1,9 @@
-Introduction Routes
--------------------
+# Introduction Routes
 
-Introducing Wee Archlet depends on who you are talking to (often this will follow from Wee Archie and about doing something similar themselves), what level and the interest shown. This tries to identify the main groups of individuals and give a starting point.
+Introducing Wee Archlet depends on who you are talking to (often
+this will follow from Wee Archie and about doing something similar
+themselves), what level and the interest shown. This tries to
+identify the main groups of individuals and give a starting point.
 
 General Progression:
 
@@ -17,13 +19,16 @@ General Progression:
 
     -   Try to get them to come up with uses of a supercomputer
 
+## Key Points
 
-Key Points
-----------
+It is important to place emphasis that Wee Archlet are a small
+'model' of a supercomputer - it operates in the same way a supercomputer
+would but lacks the network bandwidth and performance of a
+supercomputer. Supercomputers exploit parallelism to achieve high
+performances.
 
-It is important to place emphasis that Wee Archlet are a small 'model' of a supercomputer - it operates in the same way a supercomputer would but lacks the network bandwidth and performance of a supercomputer. Supercomputers exploit parallelism to achieve high performances.
-
-Highlight the analogous parts of Wee Archlet to the parts of a supercomputer.
+Highlight the analogous parts of Wee Archlet to the parts of a
+supercomputer.
 
 -   `Raspberry Pi` - equivalent to a compute element of a supercomputer - see technical specification for model.
 
@@ -63,20 +68,28 @@ Solve more complex problems
 
 ### Why use parallelism?
 
-Splitting up large problems into smaller parts, give examples of tangible things and then move to more abstract computational examples. Focus on the idea of work being spread across the different elements.
+Splitting up large problems into smaller parts, give examples of
+tangible things and then move to more abstract computational examples.
+Focus on the idea of work being spread across the different elements.
 
 ### Why parallel
 
-Talk about communications - highlight in most parallel situations data needs to be shared and updated as the computation takes place. Talk about the differences in speed between communication and computation. Highlight that speed-up is not perfect, two CPUs don’t do it twice as fast as one but are faster and scale it up.
+Talk about communications - highlight in most parallel situations
+data needs to be shared and updated as the computation takes place.
+Talk about the differences in speed between communication and
+computation. Highlight that speed-up is not perfect, two CPUs don’t
+do it twice as fast as one but are faster and scale it up.
 
-Bottlenecks - talk about how some parts of the code may cause the rest to have to stop/slow down while it operates - particularly talk about serial parts in relation to parallel parts.
+Bottlenecks - talk about how some parts of the code may cause the
+rest to have to stop/slow down while it operates - particularly
+talk about serial parts in relation to parallel parts.
 
-Deadlocks - talk about the importance on ensuring that data or processes that depend on each other are kept in synch - so for example you don’t end up with a case of one wanting data the other has but it is waiting on the first one to finish something else.
+Deadlocks - talk about the importance on ensuring that data or
+processes that depend on each other are kept in synch - so for
+example you don’t end up with a case of one wanting data the other
+has but it is waiting on the first one to finish something else.
 
- 
-
-Supplemental Points
--------------------
+## Supplemental Points
 
 Computer - ensure that the audience knows what a computer is and that they understand that it is a tool to enable us to do more.
 
@@ -90,7 +103,9 @@ Science on Computers - why
 
 -   Cost
 
-Talk about how modern science is very difficult to deal with/research in without the support provided by computers and software available to us.
+Talk about how modern science is very difficult to deal with/research
+in without the support provided by computers and software available
+to us.
 
 <!-- Licensing and copyright stuff below -->
 <br>

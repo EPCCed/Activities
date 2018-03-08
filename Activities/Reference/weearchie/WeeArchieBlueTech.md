@@ -1,13 +1,10 @@
-Wee Archie Blue
-===============
+# Wee Archie Blue
 
 Wee Archie Blue is the second unit developed for demonstration purposes using
 the Raspberry Pi series of single board computers. The blue name comes from the
 use of the blue LEDs.
-
  
-Wee Archie Blue Technical Specification:
-----------------------------------------
+## Wee Archie Blue Technical Specification:
 
 ### Overview Numbers
 
@@ -39,8 +36,6 @@ The power and computation elements are:
 
 -   2 5V 10A PSU
 
-
-
 ### Raspberry Pi 3 Model B Specification
 
 -   Quad Core 1.2GHz Broadcom BCM2837 64bit CPU
@@ -57,14 +52,10 @@ The power and computation elements are:
 
 -   Ethernet Port
 
- 
-
 The Raspberry Pi 3 units in Wee Archie Blue has been under clocked to 1GHz after
 testing against applications including using OpenBLAS proved this to give stable
 performance without power or heating issues in the cases. Each unit has a 16GB
 MicroSD card with the operating system installed.
-
- 
 
 ### Netgear GS108 Switch
 
@@ -74,14 +65,10 @@ MicroSD card with the operating system installed.
 
 -   Max Power Consumption: 4.9W
 
- 
-
 The switches used in Wee Archie Blue are off-the-shelf Netgear units. The
 Raspberry Pi network communications are well within the tolerances of the
 switches and the power consumption is low. Each switch has its own 5V power
 supply.
-
- 
 
 ### 120 GB Sandisk Portable SSD
 
@@ -95,12 +82,8 @@ supply.
 
 -   Silent Operation
 
- 
-
 The Sandisk SSD is a low power, portable drive used to hold the shared network
 files for Wee Archie Blue.
-
- 
 
 ### 8x8 LED Matrix
 
@@ -110,15 +93,10 @@ files for Wee Archie Blue.
 
 -   Blue colour
 
- 
-
 The LED Matrices are used to give information on the status of a Raspberry Pi,
 including core usage, network traffic and temperature.
 
- 
-
-Wee Archie Blue Performance
----------------------------
+## Wee Archie Blue Performance
 
 The performance of Wee Archie Blue was assessed using the Linpack benchmark
 (<http://www.netlib.org/benchmark/hpl/>). For more detailed information on the

@@ -1,12 +1,10 @@
-Wee Archie Green
-===============
+# Wee Archie Green
 
 Wee Archie Green was the first unit developed for demonstration purposes using
 the Raspberry Pi series of single board computers. The green refers to the colour
 of the LEDs used.
 
-Wee Archie Green Technical Specification
-----------------------------------------
+## Wee Archie Green Technical Specification
 
 ### Overview Numbers
 
@@ -36,8 +34,6 @@ The power and computation elements are:
 
 -   2 5V 10A PSU
 
-  
-
 ### Raspberry Pi 3 Model B Specification
 
 -   900MHz quad-core ARM Cortex-A7 CPU
@@ -51,10 +47,8 @@ The power and computation elements are:
 -   Micro SD (8GB Cards in use)
 
 -   Ethernet Port
-
  
 Each unit has an 8GB MicroSD card with the operating system installed.
-
 
 ### Netgear GS108 Switch
 
@@ -64,13 +58,10 @@ Each unit has an 8GB MicroSD card with the operating system installed.
 
 -   Max Power Consumption: 4.9W
 
- 
-
 The switches used in Wee Archie Green are off-the-shelf Netgear units. The
 Raspberry Pi network communications are well within the tolerances of the
 switches and the power consumption is low. Each switch has its own 5V power
 supply.
-
  
 ### 8x8 LED Matrix
 
@@ -84,9 +75,7 @@ supply.
 The LED Matrices are used to give information on the status of a Raspberry Pi,
 including core usage, network traffic and temperature.
 
-
-Wee Archie Green Performance
----------------------------
+## Wee Archie Green Performance
 
 The performance of Wee Archie Green was assessed using the Linpack benchmark
 (<http://www.netlib.org/benchmark/hpl/>). For more detailed information on the
