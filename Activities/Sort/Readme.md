@@ -16,7 +16,7 @@
 
 # Sorting
 
-**Version: 1.0.2**
+**Version: 1.1.0**
 
 For the latest version of this document please see:
 
@@ -116,17 +116,21 @@ stand) with a set of small pyramid bean bags.
 
 ![Flower stand with buckets](imgs/flower-stand.png)
 
-Graph paper for use with the ball sort can be generated via:
-https://www.blocklayer.com/graph-paper.aspx some sample blank paper
-with ~5mm spacing which should be usable with the the small sticky
-circles can be generated using the options given by the image below. 
+You can create your own graph paper for tabulating sort results or you can 
+generated your own via a service like:
+
+* [https://www.blocklayer.com/graph-paper.aspx](https://www.blocklayer.com/graph-paper.aspx) 
+
+To generate a blank piece of A3 graph paper with ~5mm spacing which should be usable with small sticky coloured circles using the options given by the image below. 
 
 ![A3 Options](imgs/a3_options.png)
 
-An A3 graph for use with 100 balls and up to 7 people participating
-can be found [here](https://github.com/EPCCed/Activities/blob/master/Activities/Sort/pdf/ballsort-graph-paper.pdf). It should be
-possible to tweak the text sizes, numbers etc easily enough using
-any pdf editor. Apple Preview was used to annotate the pdf linked
+We provide an annotated piece of A3 graph paper you can use:
+
+* [Sample A3 graph paper](https://github.com/EPCCed/Activities/blob/master/Activities/Sort/pdf/ballsort-graph-paper.pdf). 
+
+It should bepossible to tweak the text sizes, numbers etc easily enough using
+any pdf editor. Apple Preview was usedt o annotate the pdf linked
 here.
 
 ## Scenario
