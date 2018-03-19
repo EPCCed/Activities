@@ -127,7 +127,7 @@ To generate a blank piece of A3 graph paper with ~5mm spacing which should be us
 
 We provide an annotated piece of A3 graph paper you can use:
 
-* [Sample A3 graph paper](https://github.com/EPCCed/Activities/blob/master/Activities/Sort/pdf/ballsort-graph-paper.pdf). 
+* [Sample A3 graph paper](https://github.com/EPCCed/Activities/blob/master/Activities/Sort/pdf/sort-graph-paper.pdf). 
 
 It should bepossible to tweak the text sizes, numbers etc easily enough using
 any pdf editor. Apple Preview was usedt o annotate the pdf linked
