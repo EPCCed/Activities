@@ -16,7 +16,7 @@
 
 # Sorting
 
-**Version: 1.1.0**
+**Version: 1.2.0**
 
 For the latest version of this document please see:
 
@@ -152,16 +152,37 @@ ball in your hand at a time. This helps to level the playing field as
 some people, if their hands are large, will be able to handle more
 than one object at a time.
 
+We have found it useful to establish some rules:
+
+1. You can only use one hand to sort the objects.
+2. You can only handle one bag at a time.
+3. You have 30s (or insert your time limit) to sort as many bags as you can.
+4. Put the coloured coloured object into the corresponding coloured bucket.
+5. Don't worry if you make a mistake, keep on going
+6. Try the activity as an individual or as a group and add more people to the group to see what
+   happens.
+
+It might be useful to print something out with variants of these rules, it will certainly 
+save your voice.
+
 You then:
 
-* Get one person to sort as many coloured objects as they can in e.g. 30s. 
-* Count the objects they have sorted. Note down the score and/or get the participant
-  to add a sticky dot or mark with a pen to the chart as shown below.
+* Get one person to sort as many coloured objects as they can in, for example, 30s. 
+* If you are doing this on your own you can hand over the timer to a friend or family
+  member as it gets them involved and it saves you from having to monitor two things. 
+  However, unless your timer emits an audible beep on completion you may still have
+  to keep an eye on the timer as participants can sometimes get involved in their 
+  child's/friend's efforts and forget to monitor the timer.
+* Count the objects they have sorted - sometimes you can count them as they are being
+  sorted but to do this you need to get someone else to handle the timer. Note down the 
+  score and/or get the participant to add a sticky dot or mark with a pen to the chart 
+  as shown below.
 * Make sure the objects are well shuffled in the source container.
 * Now get more than one person to carry out the same task. You can repeat with as 
   many people as you have in the group.
 
 ![Keeping track of the coloured objects sorted in 30s.](imgs/scores.png)
+![A more recent score example using the graph paper provided.](imgs/scores2.png)
 
 
 ## Discussion - parallelism
