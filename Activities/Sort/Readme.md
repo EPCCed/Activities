@@ -185,11 +185,11 @@ You then:
 
 ![Keeping track of the coloured objects sorted in 30s.](imgs/scores.png)
 
-*Caption*: Keeping track of the coloured objects sorted in 30s.
+**Caption**: Keeping track of the coloured objects sorted in 30s.
 
 ![A more recent score example using the graph paper provided.](imgs/scores2.png)
 
-*Caption*: A more recent score example using the graph paper provided.
+**Caption**: A more recent score example using a precursor to the sample graph paper provided.
 
 
 ## Discussion - parallelism
