@@ -154,6 +154,7 @@ than one object at a time.
 
 We have found it useful to establish some rules:
 
+```
 1. You can only use one hand to sort the objects.
 2. You can only handle one bag at a time.
 3. You have 30s (or insert your time limit) to sort as many bags as you can.
@@ -161,6 +162,7 @@ We have found it useful to establish some rules:
 5. Don't worry if you make a mistake, keep on going
 6. Try the activity as an individual or as a group and add more people to the group to see what
    happens.
+```
 
 It might be useful to print something out with variants of these rules, it will certainly 
 save your voice.
@@ -182,7 +184,10 @@ You then:
   many people as you have in the group.
 
 ![Keeping track of the coloured objects sorted in 30s.](imgs/scores.png)
+Caption: Keeping track of the coloured objects sorted in 30s.
+
 ![A more recent score example using the graph paper provided.](imgs/scores2.png)
+Caption: A more recent score example using the graph paper provided.
 
 
 ## Discussion - parallelism
