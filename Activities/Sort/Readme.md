@@ -158,7 +158,7 @@ We have found it useful to establish some rules:
 1. You can only use one hand to sort the objects.
 2. You can only handle one bag at a time.
 3. You have 30s (or insert your time limit) to sort as many objects as you can.
-4. Put the coloured coloured object into the corresponding coloured bucket.
+4. Put the coloured object into the corresponding coloured bucket.
 5. Don't worry if you make a mistake, keep on going
 6. Try the activity as an individual or as a group and add more people to the group to see what
    happens.
