@@ -7,6 +7,13 @@ If you go on to use any of these we would love to hear about it - drop us an
 [email](mailto:m.antonioletti@epcc.ed.ac.uk) with any feedback. If you would like to contribute then please fork the 
 repository and issue a pull request with your contributions.
 
+# Other EPCC Outreach repositories
+
+* [Wee Archlet](https://github.com/EPCCed/wee_archlet) - instructions on building a Raspberry Pi based cluster.
+* [Wee Archie](https://github.com/EPCCed/wee_archie) - applications that we use to run on Raspberry Pi cluster (Wee Archie).
+* [Schools Material](https://github.com/EPCCed/SchoolsIntroMaterial) - set of reveal based slides used in primary schools.
+* [Dino racer](https://github.com/EPCCed/outreach) - another application used on our rapberry pi cluster - racing dinosaurs.
+
 <!-- Licensing and copyright stuff below -->
 <br>
 <a href="http://www.epcc.ed.ac.uk">
