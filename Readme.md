@@ -1,10 +1,13 @@
 # Outreach
-This repository contains a description of EPCC/ARCHER outreach activities. Various practical activities
-are described that can be used to demonstrate the benefits of parallel/supercomputing to the general
-public and/or young people. 
 
-If you go on to use any of these we would love to hear about it - drop us an
-[email](mailto:m.antonioletti@epcc.ed.ac.uk) with any feedback. If you would like to contribute then please fork the 
+This repository contains a description of EPCC/ARCHER outreach
+activities. Various practical activities are described that can be
+used to demonstrate the benefits of parallel/supercomputing to the
+general public and/or young people.
+
+If you go on to use any of these we would love to hear about it -
+drop us an [email](mailto:m.antonioletti@epcc.ed.ac.uk) with any
+feedback. If you would like to contribute then please fork the
 repository and issue a pull request with your contributions.
 
 ## Other EPCC Outreach repositories
