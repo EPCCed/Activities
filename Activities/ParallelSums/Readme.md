@@ -158,6 +158,13 @@ global sum.  Check the total is correct.
     may get it wrong, but other processes should still get the correct
     answer.
 
+## Want to know more?
+
+If you want to know more about EPCC Outreach activities visit:
+
+* https://www.epcc.ed.ac.uk/discover-and-learn
+
+
 <!-- Licensing and copyright stuff below -->
 <br>
 <a href="http://www.epcc.ed.ac.uk">
