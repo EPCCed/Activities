@@ -1,7 +1,7 @@
 # Outreach
 
 This repository contains a description of EPCC/ARCHER outreach
-activities. Various practical activities are described that can be
+activities under the [Activities](./Activities) directory. Various practical activities are described that can be
 used to demonstrate the benefits of parallel/supercomputing to the
 general public and/or young people.
 
